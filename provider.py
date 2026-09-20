@@ -15,15 +15,35 @@ def create_m3u(data, filename="stv8.m3u"):
         for event in data:
             event_name = event.get("eventInfo", {}).get("eventName", "Unknown Event")
             event_cat = event.get("eventInfo", {}).get("eventCat", "General")
+            logo = event.get("eventInfo", {}).get("eventLogo", "")
             teamA = event.get("eventInfo", {}).get("teamA", "")
             teamB = event.get("eventInfo", {}).get("teamB", "")
-            match_label = f"{event_name} ({teamA} vs {teamB})" if teamA and teamB else event_name
+            match_label = f"{event_name}: {teamA} vs {teamB}" if teamA and teamB else event_name
+            tvg_id = str(event.get("id", ""))
 
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
                 url = stream.get("link", "")
-                if url:
-                    f.write(f'#EXTINF:-1 group-title="{event_cat}", {match_label} - {title}\n{url}\n')
+                api = stream.get("api", "")
+                if not url:
+                    continue
+
+                # Build tvg-name
+                tvg_name = f"{match_label} - {title}"
+
+                # Write EXTINF line with tvg-id, tvg-name, tvg-logo
+                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{logo}" group-title="{event_cat}",{tvg_name}\n')
+
+                # Kodi properties for DASH/MPD streams
+                if url.endswith(".mpd"):
+                    f.write("#KODIPROP:inputstream=inputstream.adaptive\n")
+                    f.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
+                    f.write("#KODIPROP:inputstream.adaptive.license_type=clearkey\n")
+                    if api:
+                        f.write(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
+
+                # Finally the stream URL
+                f.write(f"{url}\n")
 
 def create_log(data, filename="stv8.log"):
     with open(filename, "w", encoding="utf-8") as log:
@@ -36,13 +56,14 @@ def create_log(data, filename="stv8.log"):
             event_name = event.get("eventInfo", {}).get("eventName", "Unknown Event")
             teamA = event.get("eventInfo", {}).get("teamA", "")
             teamB = event.get("eventInfo", {}).get("teamB", "")
-            match_label = f"{event_name} ({teamA} vs {teamB})" if teamA and teamB else event_name
+            match_label = f"{event_name}: {teamA} vs {teamB}" if teamA and teamB else event_name
 
             log.write(f"Event: {match_label}\n")
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
                 url = stream.get("link", "")
-                log.write(f"  {title} -> {url}\n")
+                api = stream.get("api", "")
+                log.write(f"  {title} -> {url} | license_key={api}\n")
             log.write("\n")
 
 def main():
