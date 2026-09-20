@@ -16,10 +16,11 @@ def create_m3u(data, filename="stv8.m3u"):
             event_name = event.get("eventInfo", {}).get("eventName", "Unknown Event")
             event_cat = event.get("eventInfo", {}).get("eventCat", "General")
             logo = event.get("eventInfo", {}).get("eventLogo", "")
+            tvg_id = str(event.get("id", ""))
+
             teamA = event.get("eventInfo", {}).get("teamA", "")
             teamB = event.get("eventInfo", {}).get("teamB", "")
             match_label = f"{event_name}: {teamA} vs {teamB}" if teamA and teamB else event_name
-            tvg_id = str(event.get("id", ""))
 
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
@@ -31,31 +32,34 @@ def create_m3u(data, filename="stv8.m3u"):
                 tvg_name = f"{match_label} - {title}"
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{logo}" group-title="{event_cat}",{tvg_name}\n')
 
-                # DASH/MPD streams
-                if raw_link.endswith(".mpd") or ".mpd" in raw_link:
+                # DASH streams
+                if ".mpd" in raw_link:
                     f.write("#KODIPROP:inputstream=inputstream.adaptive\n")
                     f.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
                     f.write("#KODIPROP:inputstream.adaptive.license_type=clearkey\n")
                     if api:
                         f.write(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
 
-                # HLS/M3U8 streams
+                # HLS streams
                 elif ".m3u8" in raw_link:
                     f.write("#KODIPROP:inputstream=inputstream.ffmpeg\n")
                     f.write("#KODIPROP:inputstream.adaptive.manifest_type=hls\n")
 
-                # Handle extra headers in link (e.g. |User-Agent=..., |Origin=...)
+                # Handle extra headers
                 url = raw_link
                 if "|" in raw_link:
-                    parts = raw_link.split("|")
-                    url = parts[0]
-                    for p in parts[1:]:
-                        if p.lower().startswith("user-agent="):
-                            ua = p.split("=",1)[1]
-                            f.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
-                        elif p.lower().startswith("origin="):
-                            origin = p.split("=",1)[1]
-                            f.write(f"#EXTVLCOPT:http-origin={origin}\n")
+                    url, headers = raw_link.split("|", 1)
+                    for header in headers.split("&"):
+                        if "=" not in header:
+                            continue
+                        key, val = header.split("=", 1)
+                        key = key.lower()
+                        if key == "user-agent":
+                            f.write(f"#EXTVLCOPT:http-user-agent={val}\n")
+                        elif key == "origin":
+                            f.write(f"#EXTVLCOPT:http-origin={val}\n")
+                        elif key == "referer":
+                            f.write(f"#EXTVLCOPT:http-referrer={val}\n")
 
                 f.write(f"{url}\n")
 
