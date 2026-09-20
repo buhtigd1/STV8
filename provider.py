@@ -1,6 +1,7 @@
 import json
 import datetime
 import requests
+from zoneinfo import ZoneInfo  # Python 3.9+
 
 URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/refs/heads/main/provider_2/live_events.json"
 
@@ -9,18 +10,42 @@ def fetch_json(url):
     response.raise_for_status()
     return response.json()
 
+def format_event_time(start_str, end_str):
+    """Convert UTC timestamps to Jakarta time and format as HH:MM - HH:MM."""
+    try:
+        if not start_str or not end_str:
+            return ""
+        start = datetime.datetime.fromisoformat(start_str.replace("Z","")).astimezone(ZoneInfo("Asia/Jakarta"))
+        end = datetime.datetime.fromisoformat(end_str.replace("Z","")).astimezone(ZoneInfo("Asia/Jakarta"))
+        return f"{start.strftime('%H:%M')} - {end.strftime('%H:%M')}"
+    except Exception:
+        return ""
+
 def create_m3u(data, filename="stv8.m3u"):
     with open(filename, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for event in data:
-            event_name = event.get("eventInfo", {}).get("eventName", "Unknown Event")
-            event_cat = event.get("eventInfo", {}).get("eventCat", "General")
-            logo = event.get("eventInfo", {}).get("eventLogo", "")
+            event_info = event.get("eventInfo", {})
+            event_name = event_info.get("eventName", "Unknown Event")
+            event_cat = event_info.get("eventCat", "General")
+            logo = event_info.get("eventLogo", "")
             tvg_id = str(event.get("id", ""))
 
-            teamA = event.get("eventInfo", {}).get("teamA", "")
-            teamB = event.get("eventInfo", {}).get("teamB", "")
-            match_label = f"{event_name}: {teamA} vs {teamB}" if teamA and teamB else event_name
+            teamA = event_info.get("teamA", "")
+            teamB = event_info.get("teamB", "")
+
+            # Format Jakarta time window
+            start_time = event_info.get("startTime", "")
+            end_time = event_info.get("endTime", "")
+            time_label = format_event_time(start_time, end_time)
+
+            if teamA and teamB:
+                match_label = f"{event_name}: {teamA} vs {teamB}"
+            else:
+                match_label = event_name
+
+            if time_label:
+                match_label = f"{time_label} - {match_label}"
 
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
@@ -70,10 +95,22 @@ def create_log(data, filename="stv8.log"):
         log.write(f"Total events: {len(data)}\n")
         log.write(f"Total streams: {total_streams}\n\n")
         for event in data:
-            event_name = event.get("eventInfo", {}).get("eventName", "Unknown Event")
-            teamA = event.get("eventInfo", {}).get("teamA", "")
-            teamB = event.get("eventInfo", {}).get("teamB", "")
-            match_label = f"{event_name}: {teamA} vs {teamB}" if teamA and teamB else event_name
+            event_info = event.get("eventInfo", {})
+            event_name = event_info.get("eventName", "Unknown Event")
+            teamA = event_info.get("teamA", "")
+            teamB = event_info.get("teamB", "")
+            start_time = event_info.get("startTime", "")
+            end_time = event_info.get("endTime", "")
+            time_label = format_event_time(start_time, end_time)
+
+            if teamA and teamB:
+                match_label = f"{event_name}: {teamA} vs {teamB}"
+            else:
+                match_label = event_name
+
+            if time_label:
+                match_label = f"{time_label} - {match_label}"
+
             log.write(f"Event: {match_label}\n")
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
