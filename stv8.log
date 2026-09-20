@@ -1,6 +1,6 @@
-Generated on: 2026-09-20 09:11:43.678821
+Generated on: 2026-09-20 09:15:17.524585
 Total events: 38
-Total streams: 170
+Total streams: 148
 
 Event: T20 International: JPN vs IND
   Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd | license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
@@ -36,37 +36,15 @@ Event: WWE Monday Night RAW: RAW vs RAW
 
 Event: Premier League: Bournemouth vs Liverpool
   FUBO SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd | license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-  Astro premier HD -> https://live.dyrur1.com/live/72221274_f0b7fdf1dd2e4287cedaf675b592aa06_540p.m3u8?auth_key=1789772167-0-0-50eeaa0af4341e7adbbbf4f6feb9a6d9 | license_key=
-  USA SPORTS HD -> https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center | license_key=
-  SKY SPORTS HD -> https://messi.damitv.st/live-hls/channel/pl/2026-09-18/bre-che/playlist.m3u8?tk=L_EQ7EoCqaAmJXxwas3STA&e=1789799452|origin=https://ondemand.st/embed/?id=pl/2026-09-18/bre-che&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-18/bre-che | license_key=
-  FOOT DIRECT HD -> https://futbolx.ryzn.pro/che-fr/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
-  HUB PREMIER HD -> https://futbolx.ryzn.pro/che-en/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
-  BeIN SPORTS HD -> https://futbolx.ryzn.pro/che-ar/index.m3u8|origin=https://www.futbol-x.top&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
-  Sky Premier League  -> http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8 | license_key=
-  SKY MAIN EVENT  -> https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8 | license_key=
-  GHD SPORTS HD -> http://193.47.62.44/hls/AJJJ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  SKY SPORTS NZ -> https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8 | license_key=
-  USA NETWORK HD -> https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8 | license_key=
 
 Event: Premier League: Leeds vs Crystal Palace
-  TNT SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-  FUBO SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 | license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
-  Astro Premier HD -> https://live.dyrur1.com/live/72221290_ca5125e09925c0e73facac4dac89ad31_720p.m3u8?auth_key=1789831984-0-0-c1002c72ed1e32c1ef03aebcd5ac0df4 | license_key=
-  HUB PREMIER HD -> https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a8db522e4f896100fb57fff-fhd/720p/chunks.m3u8?is_vip=false&token=1789904843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f403cec3118797ff434762509acd63f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/ | license_key=
-  TNT SPORTS HD -> https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb57fff-hd/chunks.m3u8?is_vip=false&token=1789903949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d8c00c0d25065b2b523adea54d31797d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/ | license_key=
-  GHD SPORTS HD -> http://193.47.62.50/hls/aqaqaq.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  GHD SPORTS SD -> https://www.rtmpcdn.com/live/a3ba03a3-7a85-426e-825c-ec65ca4efebb.m3u8 | license_key=
+  GHD SPORTS HD -> https://www.rtmpcdn.com/live/a3ba03a3-7a85-426e-825c-ec65ca4efebb.m3u8 | license_key=
 
 Event: Premier League: Man City vs Sunderland
-  Astro Premier HD -> https://live1.dyrur1.com/live/72221276_6c1f122c25d9ae25aa7685b5ada75f01_720p.m3u8?auth_key=1789844475-0-0-aed2ddfdf158baf4caa51bf45b75fdad | license_key=
+  SKY SPORTS EPL AQ -> https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 | license_key=
+  SKY SPORTS EPL HD -> http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8 | license_key=
   GHD SPORTS HD -> http://193.47.62.55/hls/TOTOTOQQX.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  USA SPORTS HD -> https://chatgpt.hereisman.net/playlist/56649/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
-  USA SPORTS SD -> https://messi.damitv.st/live-hls/channel/pl/2026-09-19/bha-ars/playlist.m3u8?tk=CHUjj3Kp2mc-mevtVlBSmg&e=1789869610|origin=https://ondemand.st/embed/?id=pl/2026-09-19/bha-ars&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=pl/2026-09-19/bha-ars | license_key=
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/6989cffb-42d9-4998-af07-8e569a934ada.m3u8 | license_key=
-  ESPN SPORTS FHD -> https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd | license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-  STAN SPORTS HD -> https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1789912966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90593534b35f693cf382dfe32e8d6d06|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/ | license_key=
-  FAST SERVER HD -> https://live.uu6611.com/live/hd-en-1-4558560.m3u8?txSecret=cd97440615751c61b8bdd000d1dcfef7&txTime=6AAED7AB|Referer=https://player.up909.com/ | license_key=
-  USA SPORTS LQ -> https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online | license_key=
 
 Event: Premier League: Fulham vs Man Utd
   GHD SPORTS HD -> http://193.47.62.59/hls/TOTOTO.m3u8|Referer=http://www.fawanews.sc/ | license_key=
