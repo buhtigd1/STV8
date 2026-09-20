@@ -23,32 +23,39 @@ def create_m3u(data, filename="stv8.m3u"):
 
             for stream in event.get("resolved_streams", []):
                 title = stream.get("title", "Unknown Stream")
-                url = stream.get("link", "")
+                raw_link = stream.get("link", "")
                 api = stream.get("api", "")
-                if not url:
+                if not raw_link:
                     continue
 
                 tvg_name = f"{match_label} - {title}"
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{logo}" group-title="{event_cat}",{tvg_name}\n')
 
                 # DASH/MPD streams
-                if url.endswith(".mpd"):
+                if raw_link.endswith(".mpd") or ".mpd" in raw_link:
                     f.write("#KODIPROP:inputstream=inputstream.adaptive\n")
                     f.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
                     f.write("#KODIPROP:inputstream.adaptive.license_type=clearkey\n")
                     if api:
                         f.write(f"#KODIPROP:inputstream.adaptive.license_key={api}\n")
 
-                # HLS/M3U8 streams with User-Agent
-                elif ".m3u8" in url:
+                # HLS/M3U8 streams
+                elif ".m3u8" in raw_link:
                     f.write("#KODIPROP:inputstream=inputstream.ffmpeg\n")
                     f.write("#KODIPROP:inputstream.adaptive.manifest_type=hls\n")
-                    # If the link contains a UA after '|User-Agent=...', extract it
-                    if "|User-Agent=" in url:
-                        ua = url.split("|User-Agent=")[-1]
-                        f.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
-                        # Strip UA part from URL
-                        url = url.split("|User-Agent=")[0]
+
+                # Handle extra headers in link (e.g. |User-Agent=..., |Origin=...)
+                url = raw_link
+                if "|" in raw_link:
+                    parts = raw_link.split("|")
+                    url = parts[0]
+                    for p in parts[1:]:
+                        if p.lower().startswith("user-agent="):
+                            ua = p.split("=",1)[1]
+                            f.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
+                        elif p.lower().startswith("origin="):
+                            origin = p.split("=",1)[1]
+                            f.write(f"#EXTVLCOPT:http-origin={origin}\n")
 
                 f.write(f"{url}\n")
 
