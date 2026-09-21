@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="11" tvg-name="T20 International: JPN vs IND - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",T20 International: JPN vs IND - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="11" tvg-name="11:00 - 18:30 - T20 International: JPN vs IND - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",11:00 - 18:30 - T20 International: JPN vs IND - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd
-#EXTINF:-1 tvg-id="11" tvg-name="T20 International: JPN vs IND - Willow CricBuzz - ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",T20 International: JPN vs IND - Willow CricBuzz - ALT
+#EXTINF:-1 tvg-id="11" tvg-name="11:00 - 18:30 - T20 International: JPN vs IND - Willow CricBuzz - ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",11:00 - 18:30 - T20 International: JPN vs IND - Willow CricBuzz - ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd
-#EXTINF:-1 tvg-id="11" tvg-name="T20 International: JPN vs IND - FANCODE ENG - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",T20 International: JPN vs IND - FANCODE ENG - FHD
+#EXTINF:-1 tvg-id="11" tvg-name="11:00 - 18:30 - T20 International: JPN vs IND - FANCODE ENG - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",11:00 - 18:30 - T20 International: JPN vs IND - FANCODE ENG - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="11" tvg-name="T20 International: JPN vs IND - SONY SPORTS ENG - (IN-IP)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",T20 International: JPN vs IND - SONY SPORTS ENG - (IN-IP)
+#EXTINF:-1 tvg-id="11" tvg-name="11:00 - 18:30 - T20 International: JPN vs IND - SONY SPORTS ENG - (IN-IP)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",11:00 - 18:30 - T20 International: JPN vs IND - SONY SPORTS ENG - (IN-IP)
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)
 https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="T20 International: JPN vs IND - SONY SPORTS TAM - (IN-IP)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",T20 International: JPN vs IND - SONY SPORTS TAM - (IN-IP)
+#EXTINF:-1 tvg-id="11" tvg-name="11:00 - 18:30 - T20 International: JPN vs IND - SONY SPORTS TAM - (IN-IP)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",11:00 - 18:30 - T20 International: JPN vs IND - SONY SPORTS TAM - (IN-IP)
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)
 https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Cricbuzz - AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="Unknown-Date",EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="13" tvg-name="20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Cricbuzz - AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="20-09-2026",20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d8b6d946a51363b9e28958fd78f8ea3:0f0b52979c044b7137f53ede158d885d
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nybfitjfqd/out/v1/e12cd60d9c3c4fc88817895f8c896d9c/cenc.mpd
-#EXTINF:-1 tvg-id="13" tvg-name="EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Sports AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="Unknown-Date",EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Sports AQ
+#EXTINF:-1 tvg-id="13" tvg-name="20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Sports AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="20-09-2026",20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Willow Sports AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,211 +41,211 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nybf
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="13" tvg-name="EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Tapmad ENG - AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="Unknown-Date",EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Tapmad ENG - AQ
+#EXTINF:-1 tvg-id="13" tvg-name="20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Tapmad ENG - AQ" tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="20-09-2026",20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Tapmad ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Star Sports English " tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="Unknown-Date",EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Star Sports English 
+#EXTINF:-1 tvg-id="13" tvg-name="20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Star Sports English " tvg-logo="https://img.cricketworld.com/images/e-167413/etpl-logo-(002).jpg" group-title="20-09-2026",20:15 - 00:50 - EUROPEAN T20 PREMIER LEAGUE, FINAL: European T20 vs European T20 - Star Sports English 
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ
+#EXTINF:-1 tvg-id="14" tvg-name="18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - Willow Cricbizz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/acwviu4yoa/out/v1/e2a305a5f12840cdbd24c1f8046fe1be/cenc.mpd
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ
+#EXTINF:-1 tvg-id="14" tvg-name="18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/criclive1909/ENG/master.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - SKY CRICKET - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",SRI LANKA TOUR OF ENGLAND: ENG vs SL - SKY CRICKET - AQ
+#EXTINF:-1 tvg-id="14" tvg-name="18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - SKY CRICKET - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - SKY CRICKET - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - GHD SPORTS - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",SRI LANKA TOUR OF ENGLAND: ENG vs SL - GHD SPORTS - SD
+#EXTINF:-1 tvg-id="14" tvg-name="18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - GHD SPORTS - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - GHD SPORTS - SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/JYYYAAAA.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="SRI LANKA TOUR OF ENGLAND: ENG vs SL - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Unknown-Date",SRI LANKA TOUR OF ENGLAND: ENG vs SL - TAPMAD ENG - AQ
+#EXTINF:-1 tvg-id="14" tvg-name="18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="22-09-2026",18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL - TAPMAD ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="Unknown-Date",WWE NXT: NXT vs NXT - GHD SPORTS - HD
+#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="Unknown-Date",WWE NXT: NXT vs NXT - GHD SPORTS - HD
+#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="WWE NXT: NXT vs NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="Unknown-Date",WWE NXT: NXT vs NXT - FAST SERVER HD
+#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/TTTT.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW: RAW vs RAW - RAW NETWORK 247" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="Unknown-Date",WWE Monday Night RAW: RAW vs RAW - RAW NETWORK 247
+#EXTINF:-1 tvg-id="389" tvg-name="07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - RAW NETWORK 247" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="22-09-2026",07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - RAW NETWORK 247
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW: RAW vs RAW - GHD SPORTS HD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="Unknown-Date",WWE Monday Night RAW: RAW vs RAW - GHD SPORTS HD
+#EXTINF:-1 tvg-id="389" tvg-name="07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - GHD SPORTS HD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="22-09-2026",07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW: RAW vs RAW - RAW NETWORK SD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="Unknown-Date",WWE Monday Night RAW: RAW vs RAW - RAW NETWORK SD
+#EXTINF:-1 tvg-id="389" tvg-name="07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - RAW NETWORK SD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="22-09-2026",07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW - RAW NETWORK SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/DQQQAQQ.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5667d6e86c780df274b842525af51b71:6a3152c6abd14ce16e1584af2ac69983
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ovcmulril/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - USA NETWORK HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - USA NETWORK HD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - USA NETWORK HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - USA NETWORK HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56798/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - ASTRO PREMIRE HD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - ASTRO PREMIRE HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live1.dyrur1.com/live/zrkn6i4gw9wcwql_95b9cb8a802acb81c90e45cf7c493104_540p.m3u8?auth_key=1789924969-0-0-3e997eae0652c5928947cd777b3264fe
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d09-hd/chunks.m3u8?is_vip=false&token=1789994012-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7119261bf4e40351ca691057aa038224
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - USA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - USA SPORTS HD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - USA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - USA SPORTS HD
 #EXTVLCOPT:http-origin=https://monperson.shop/updates/afc-bournemouth-vs-liverpool/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://monperson.shop/updates/afc-bournemouth-vs-liverpool/
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - GHD SPORTS HD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/GLLLQQ.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY MAIN EVENT
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - GHD SPORTS SD
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/c482b572-08ff-41f1-a3e8-fdbd06b7ffdd.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="Premier League: Bournemouth vs Liverpool - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Bournemouth vs Liverpool - SKY SPORTS FAST
+#EXTINF:-1 tvg-id="739" tvg-name="20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Bournemouth vs Liverpool - SKY SPORTS FAST
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=pl/2026-09-20/bou-liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-09-20/bou-liv
 https://messi.damitv.st/live-hls/channel/pl/2026-09-20/bou-liv/playlist.m3u8?tk=3wbUvo2F73SIh1tQwTs-IA&e=1789952410
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - ASTRO PREMIRE HD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - ASTRO PREMIRE HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live3.dyrur1.com/live/72221282_78545aad5528b6400aa4b99a9da7b304_540p.m3u8?auth_key=1789924953-0-0-bdf9d98b64134aebb23073c91930f380
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - SKY SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - SKY SPORTS FHD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS FHD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ey78I85UBI0z8ivVfEQ8xA&e=2089870147&scheme=https
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - SKY SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - SKY SPORTS HD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - SKY SPORTS NZ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - SKY SPORTS NZ
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS NZ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS NZ
 #EXTVLCOPT:http-origin=https://monperson.shop/updates/leeds-united-vs-crystal-palace/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://monperson.shop/updates/leeds-united-vs-crystal-palace/
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - GHD SPORTS HD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/GLLLQQQ.m3u8
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - GHD SPORTS SD
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/c00713ea-ee78-48c6-9fdd-e642f44ceb00.m3u8
-#EXTINF:-1 tvg-id="747" tvg-name="Premier League: Leeds vs Crystal Palace - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Leeds vs Crystal Palace - SKY SPORTS FAST
+#EXTINF:-1 tvg-id="747" tvg-name="20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Leeds vs Crystal Palace - SKY SPORTS FAST
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=pl/2026-09-20/lee-cry
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-09-20/lee-cry
 https://messi.damitv.st/live-hls/channel/pl/2026-09-20/lee-cry/playlist.m3u8?tk=3wbUvo2F73SIh1tQwTs-IA&e=1789952410
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - ASTRO PREMIRE HD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - ASTRO PREMIRE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - ASTRO PREMIRE HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/j374oi0ymlofgqo_2e7f4d8f56dc9f8736f86945054b3627_540p.m3u8?auth_key=1789924969-0-0-67332f406a0ef8be87a43d34c3d27d85
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - SKY SPORTS EPL AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - SKY SPORTS EPL AQ
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS EPL AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS EPL AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - SKY SPORTS EPL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - SKY SPORTS EPL HD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS EPL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS EPL HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - PEACOCK TV HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - PEACOCK TV HD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - PEACOCK TV HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - PEACOCK TV HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56797/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - GHD SPORTS HD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/GLLLQQQQ.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - SKY SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - SKY SPORTS HD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - SKY SPORTS NZ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - SKY SPORTS NZ
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS NZ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS NZ
 #EXTVLCOPT:http-origin=https://monperson.shop/updates/manchester-city-vs-sunderland/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://monperson.shop/updates/manchester-city-vs-sunderland/
 https://fingersoon.st/scripts/application2
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - GHD SPORTS SD
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/e5fd48b7-2ea8-4d3c-a6f0-299023796ac0.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="Premier League: Man City vs Sunderland - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Man City vs Sunderland - SKY SPORTS FAST
+#EXTINF:-1 tvg-id="748" tvg-name="20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS FAST" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",20:00 - 22:00 - Premier League: Man City vs Sunderland - SKY SPORTS FAST
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=pl/2026-09-20/mci-sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-09-20/mci-sun
 https://messi.damitv.st/live-hls/channel/pl/2026-09-20/mci-sun/playlist.m3u8?tk=N2jw4ykPUJrzoD_1f7IsPA&e=1789952411
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -253,64 +253,64 @@ https://messi.damitv.st/live-hls/channel/pl/2026-09-20/mci-sun/playlist.m3u8?tk=
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - Astro Premier HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - Astro Premier HD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - Astro Premier HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - Astro Premier HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/72221280_bdcd95c5a1557078aa6aaf3e8f20ffd0_540p.m3u8?auth_key=1789932449-0-0-4e30bc27cd59b4125388c79b30af01b0
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - NBC SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - NBC SPORTS FHD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - NBC SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - NBC SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - SKY SPORTS EPL AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - SKY SPORTS EPL AQ
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - SKY SPORTS EPL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - SKY SPORTS EPL HD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=pl/2026-09-20/ful-mun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-09-20/ful-mun
 https://messi.damitv.st/live-hls/channel/pl/2026-09-20/ful-mun/playlist.m3u8?tk=wENCxo3RKTAxIqPdDcdZfw&e=1789959610
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - SKY SPORTS EPL 2" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - SKY SPORTS EPL 2
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 2" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 2
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - SKY SPORTS EPL 3" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - SKY SPORTS EPL 3
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 3" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 3
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/52439/720p/chunks.m3u8?is_vip=false&token=1790004755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-83bf57297f8cbd699af8a5e6bb0dfd22
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - SKY SPORTS EPL 4" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - SKY SPORTS EPL 4
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 4" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - SKY SPORTS EPL 4
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09c69-hd/chunks.m3u8?is_vip=false&token=1790004757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b9b8519502a26c7c3aae28e765cb15b
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - GHD SPORTS HD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/VOOO.m3u8
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - GHD SPORTS SD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/3fb79cfd-7f35-482a-9a18-cebaa3a15344.m3u8
-#EXTINF:-1 tvg-id="749" tvg-name="Premier League: Fulham vs Man Utd - STAN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Unknown-Date",Premier League: Fulham vs Man Utd - STAN SPORTS HD
+#EXTINF:-1 tvg-id="749" tvg-name="22:30 - 00:30 - Premier League: Fulham vs Man Utd - STAN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="20-09-2026",22:30 - 00:30 - Premier League: Fulham vs Man Utd - STAN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790004756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b2cd8b8b59444413f43b33fa7b38f776
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Getafe vs MÃ¡laga - PREMIER SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Getafe vs MÃ¡laga - PREMIER SPORTS AQ
+#EXTINF:-1 tvg-id="754" tvg-name="19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - PREMIER SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - PREMIER SPORTS AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,28 +318,28 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Getafe vs MÃ¡laga - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Getafe vs MÃ¡laga - ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="754" tvg-name="19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - ESPN DEPORTES HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56794/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Getafe vs MÃ¡laga - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Getafe vs MÃ¡laga - FAST SERVER HD
+#EXTINF:-1 tvg-id="754" tvg-name="19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b38-hd/chunks.m3u8?is_vip=false&token=1789991249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6bbf10329827dcc835f817df2fb4ab5
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Getafe vs MÃ¡laga - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Getafe vs MÃ¡laga - GHD SPORTS HD
+#EXTINF:-1 tvg-id="754" tvg-name="19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://193.47.62.59/hls/MEEEAAAAA.m3u8?
-#EXTINF:-1 tvg-id="754" tvg-name="LaLiga: Getafe vs MÃ¡laga - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Getafe vs MÃ¡laga - GHD SPORTS SD
+#EXTINF:-1 tvg-id="754" tvg-name="19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",19:00 - 21:00 - LaLiga: Getafe vs MÃ¡laga - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/eb0cfa57-b83e-4605-aee6-1617bc32ebe6.m3u8
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - TSN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - TSN SPORTS FHD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - TSN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - TSN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -347,257 +347,257 @@ https://www.rtmpcdn.com/live/eb0cfa57-b83e-4605-aee6-1617bc32ebe6.m3u8
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - PREMIER SPORTS " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - PREMIER SPORTS 
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - PREMIER SPORTS " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - PREMIER SPORTS 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - FANCODE - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - FANCODE - FHD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - FANCODE - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - FANCODE - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - GHD SPORTS HD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://193.47.62.44/hls/CIII.m3u8?
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - CazÃ©TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - CazÃ©TV - FHD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - CazÃ©TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - CazÃ©TV - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN DEPORTES HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56801/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - FAST SERVER HD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://player.up909.com/
 https://live.uu6611.com/live/hd-en-1-4565421.m3u8?txSecret=0ff06078ddc8722f12e7c2f04fe870ee&txTime=6AB02838
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN SPORTS HD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - ESPN SPORTS HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56802/load-playlist?
-#EXTINF:-1 tvg-id="755" tvg-name="LaLiga: AtlÃ©tico Madrid vs Real Madrid - EAPN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: AtlÃ©tico Madrid vs Real Madrid - EAPN SPORTS SD
+#EXTINF:-1 tvg-id="755" tvg-name="21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - EAPN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",21:15 - 23:15 - LaLiga: AtlÃ©tico Madrid vs Real Madrid - EAPN SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream1.pro/hls/377qj1h2727.m3u8?
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - Premier Sports - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - Premier Sports - FHD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - Premier Sports - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - Premier Sports - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - ESPN ESPANOL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - ESPN ESPANOL HD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - ESPN ESPANOL HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - ESPN ESPANOL HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56818/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - FANCODE FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - FANCODE FHD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - FANCODE FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - FANCODE FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - D SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - D SPORTS FHD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - D SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - D SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - GHD SPORTS HD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/KTTTVAQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - GHD SPORTS SD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/199b967c-1de2-4443-9f92-3c073661fb84.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - ESPN DEPORTES " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - ESPN DEPORTES 
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - ESPN DEPORTES " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - ESPN DEPORTES 
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="LaLiga: Deportivo vs Real Betis - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Deportivo vs Real Betis - FAST SERVER HD
+#EXTINF:-1 tvg-id="756" tvg-name="23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Deportivo vs Real Betis - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=laliga/2026-09-20/dep-bet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=laliga/2026-09-20/dep-bet
 https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/dep-bet/playlist.m3u8?tk=MwbCoC5s35Dn-aiRGSD4Mg&e=1789963209
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - FANCODE - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - FANCODE - AQ
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - FANCODE - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - FANCODE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - FAST SERVER HD
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56819/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - GHD SPORTS HD
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - GHD SPORTS SD
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://instream.click/livetv.php?stream=tv401882857
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401882857
 https://instreams.pro/live/tv401882857/index.m3u8?st=zLlPcNdgXfJ-TcIl_E8BGg&e=1789930811
-#EXTINF:-1 tvg-id="757" tvg-name="LaLiga: Villarreal vs Levante - CN SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Villarreal vs Levante - CN SERVER HD
+#EXTINF:-1 tvg-id="757" tvg-name="23:30 - 01:30 - LaLiga: Villarreal vs Levante - CN SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="20-09-2026",23:30 - 01:30 - LaLiga: Villarreal vs Levante - CN SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/0c856cf7-24e1-47eb-b211-af32abf2d9be.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games Women: PAK-W vs BAN-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women: PAK-W vs BAN-W - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="758" tvg-name="07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=630d9cfcc288011decb8f32841f7f7a0:52e742871730efd0e690968f4c999a06
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/m3c3bftznc/out/v1/c9e6e1ffc66b4bd4943aa600ac102b1a/cenc.mpd
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games Women: PAK-W vs BAN-W - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women: PAK-W vs BAN-W - SonyLiv ENG - AQ
+#EXTINF:-1 tvg-id="758" tvg-name="07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/criclive1909/ENG/master.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games Women: PAK-W vs BAN-W - TAPMADE PAK - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women: PAK-W vs BAN-W - TAPMADE PAK - AQ
+#EXTINF:-1 tvg-id="758" tvg-name="07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - TAPMADE PAK - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W - TAPMADE PAK - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com
 https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ti5wh1erw/out/v1/0a22d40d486f4a62a36a4865e1544c31/cenc.mpd
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - alt" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - alt
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - alt" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - Willow Cricbuzz - alt
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - SonyLiv HIN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - SonyLiv HIN - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv HIN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv HIN - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2009/HIN/master.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - SonyLiv ENG - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2009/ENG/master.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - SonyLiv TAM - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - SonyLiv TAM - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv TAM - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv TAM - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2009/TAM/master.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - SonyLiv TEL - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - SonyLiv TEL - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv TEL - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv TEL - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2009/TEL/master.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="Asian Games Women, Final: SL-W vs IND-W - SonyLiv KAN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Unknown-Date",Asian Games Women, Final: SL-W vs IND-W - SonyLiv KAN - AQ
+#EXTINF:-1 tvg-id="759" tvg-name="12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv KAN - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="22-09-2026",12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W - SonyLiv KAN - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2009/KAN/master.m3u8
-#EXTINF:-1 tvg-id="764" tvg-name="Bundesliga: Leverkusen vs Leipzig - SPORT TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Leverkusen vs Leipzig - SPORT TV - FHD
+#EXTINF:-1 tvg-id="764" tvg-name="20:30 - 22:30 - Bundesliga: Leverkusen vs Leipzig - SPORT TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="20-09-2026",20:30 - 22:30 - Bundesliga: Leverkusen vs Leipzig - SPORT TV - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-id="764" tvg-name="Bundesliga: Leverkusen vs Leipzig - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Leverkusen vs Leipzig - GHD SPORTS HD
+#EXTINF:-1 tvg-id="764" tvg-name="20:30 - 22:30 - Bundesliga: Leverkusen vs Leipzig - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="20-09-2026",20:30 - 22:30 - Bundesliga: Leverkusen vs Leipzig - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/T666Aa.m3u8
-#EXTINF:-1 tvg-id="765" tvg-name="Bundesliga: Schalke vs Elversberg - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Schalke vs Elversberg - GHD SPORTS HD
+#EXTINF:-1 tvg-id="765" tvg-name="22:30 - 00:30 - Bundesliga: Schalke vs Elversberg - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="20-09-2026",22:30 - 00:30 - Bundesliga: Schalke vs Elversberg - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/I333QQQ.m3u8
-#EXTINF:-1 tvg-id="765" tvg-name="Bundesliga: Schalke vs Elversberg - USA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Schalke vs Elversberg - USA SPORTS HD
+#EXTINF:-1 tvg-id="765" tvg-name="22:30 - 00:30 - Bundesliga: Schalke vs Elversberg - USA SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="20-09-2026",22:30 - 00:30 - Bundesliga: Schalke vs Elversberg - USA SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/187d03b6-6b7e-4c32-b841-016e4df1ea4a.m3u8
-#EXTINF:-1 tvg-id="766" tvg-name="Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS HD
+#EXTINF:-1 tvg-id="766" tvg-name="00:30 - 02:30 - Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="21-09-2026",00:30 - 02:30 - Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/VIIIAA.m3u8
-#EXTINF:-1 tvg-id="766" tvg-name="Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Unknown-Date",Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS SD
+#EXTINF:-1 tvg-id="766" tvg-name="00:30 - 02:30 - Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="21-09-2026",00:30 - 02:30 - Bundesliga: Paderborn vs Hoffenheim - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs San Diego - APPLE  TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Unknown-Date",MLS: Inter Miami vs San Diego - APPLE  TV - HD
+#EXTINF:-1 tvg-id="767" tvg-name="06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="21-09-2026",06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/SKKKQQQQQ.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs San Diego - APPLE  TV - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Unknown-Date",MLS: Inter Miami vs San Diego - APPLE  TV - SD
+#EXTINF:-1 tvg-id="767" tvg-name="06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="21-09-2026",06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-20/mia-sd
 https://messi.damitv.st/live-hls/channel/mls/2026-09-20/mia-sd/playlist.m3u8?tk=VZJv_BqOWR009JkyQDwXSw&e=1789986609
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs San Diego - APPLE  TV - LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Unknown-Date",MLS: Inter Miami vs San Diego - APPLE  TV - LQ
+#EXTINF:-1 tvg-id="767" tvg-name="06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="21-09-2026",06:00 - 08:00 - MLS: Inter Miami vs San Diego - APPLE  TV - LQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56881?ad=111
 https://chatgpt.hereisman.net/playlist/56881/load-playlist
-#EXTINF:-1 tvg-id="767" tvg-name="MLS: Inter Miami vs San Diego - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Unknown-Date",MLS: Inter Miami vs San Diego - FAST SERVER HD
+#EXTINF:-1 tvg-id="767" tvg-name="06:00 - 08:00 - MLS: Inter Miami vs San Diego - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="21-09-2026",06:00 - 08:00 - MLS: Inter Miami vs San Diego - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - Premier Sports FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - Premier Sports FHD
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - Premier Sports FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - Premier Sports FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -605,7 +605,7 @@ https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -614,87 +614,87 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - FANCODE - FHD " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - FANCODE - FHD 
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - FANCODE - FHD " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - FANCODE - FHD 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - GHD SPORTS HD
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/vlllq.m3u8
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - GHD SPORTS SD
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://play.aarray.cn/rrty/hd-zh-1-4565429_gqzm.m3u8?auth_key=1789934647-0-0-5c0323126b2ef77b2c30a2f0e4a75c25&token=71a89ee106e862fe&device=4&platform=rrty
-#EXTINF:-1 tvg-id="768" tvg-name="LaLiga: Valencia vs Real Sociedad - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Unknown-Date",LaLiga: Valencia vs Real Sociedad - ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - ESPN DEPORTES HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="21-09-2026",02:00 - 04:00 - LaLiga: Valencia vs Real Sociedad - ESPN DEPORTES HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56850/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - FUBO SPORTS FHD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - SPORT 1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - SPORT 1 CZ FHD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - SPORT 1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - SPORT 1 CZ FHD
 11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - ESPN ARG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - ESPN ARG FHD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - ESPN ARG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - ESPN ARG FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - GHD SPORTS HD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/3390f73a-38f2-49aa-9669-a4ef7f83ceb2.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="Serie A: Fiorentina vs Napoli - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Fiorentina vs Napoli - GHD SPORTS SD
+#EXTINF:-1 tvg-id="769" tvg-name="17:30 - 19:30 - Serie A: Fiorentina vs Napoli - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",17:30 - 19:30 - Serie A: Fiorentina vs Napoli - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/ndqmliwnxezsrkv_eb86773948974fbcef372150f49ca1cd_540p.m3u8?auth_key=1789915057-0-0-18ce238869418c111df6b279aa52d9ad
-#EXTINF:-1 tvg-id="771" tvg-name="Serie A: Parma vs Genoa - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Parma vs Genoa - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="771" tvg-name="20:00 - 22:00 - Serie A: Parma vs Genoa - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",20:00 - 22:00 - Serie A: Parma vs Genoa - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="771" tvg-name="Serie A: Parma vs Genoa - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Parma vs Genoa - GHD SPORTS HD
+#EXTINF:-1 tvg-id="771" tvg-name="20:00 - 22:00 - Serie A: Parma vs Genoa - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",20:00 - 22:00 - Serie A: Parma vs Genoa - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/BB55AAAAAA.m3u8
-#EXTINF:-1 tvg-id="771" tvg-name="Serie A: Parma vs Genoa - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Parma vs Genoa - GHD SPORTS SD
+#EXTINF:-1 tvg-id="771" tvg-name="20:00 - 22:00 - Serie A: Parma vs Genoa - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",20:00 - 22:00 - Serie A: Parma vs Genoa - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/ecfe4922-dea3-4b8e-af9b-0303281df4fc.m3u8
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - TNT SPORTS FHD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - CBS SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - CBS SPORTS FHD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - CBS SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - CBS SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -702,31 +702,31 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - SPORT 1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - SPORT 1 CZ FHD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - SPORT 1 CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - SPORT 1 CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - GHD SPORTS HD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/gdddAAAAAQQ.m3u8
-#EXTINF:-1 tvg-id="772" tvg-name="Serie A: Juventus vs Atalanta - TNT SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Juventus vs Atalanta - TNT SPORTS HD
+#EXTINF:-1 tvg-id="772" tvg-name="23:00 - 01:00 - Serie A: Juventus vs Atalanta - TNT SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="20-09-2026",23:00 - 01:00 - Serie A: Juventus vs Atalanta - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - BeIN SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - BeIN SPORTS AQ
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - BeIN SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - BeIN SPORTS AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - TNT SPORTS FHD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - TNT SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -734,7 +734,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwao
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - CBS GOLAZO AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - CBS GOLAZO AQ
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - CBS GOLAZO AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - CBS GOLAZO AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -742,177 +742,177 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - CBS SPORTS HD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - CBS SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=seriea/2026-09-20/mil-lec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=seriea/2026-09-20/mil-lec
 https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/mil-lec/playlist.m3u8?tk=syl0Idnt0dxjcP8FWRD8DA&e=1789972211
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - ESPN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - ESPN SPORTS FHD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - ESPN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - ESPN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - TNT SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - TNT SPORTS HD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - TNT SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - GHD SPORTS HD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/doooaA.m3u8
-#EXTINF:-1 tvg-id="796" tvg-name="Serie A: Milan vs Lecce - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Unknown-Date",Serie A: Milan vs Lecce - GHD SPORTS SD
+#EXTINF:-1 tvg-id="796" tvg-name="01:45 - 03:45 - Serie A: Milan vs Lecce - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="21-09-2026",01:45 - 03:45 - Serie A: Milan vs Lecce - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/99744c54-3d8b-4347-b02c-e8eadc10b77c.m3u8
-#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport Digital FHD
+#EXTINF:-1 tvg-id="804" tvg-name="21:30 - 23:30 - Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="20-09-2026",21:30 - 23:30 - Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport Digital FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-id="804" tvg-name="Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport TV Portugal " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport TV Portugal 
+#EXTINF:-1 tvg-id="804" tvg-name="21:30 - 23:30 - Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport TV Portugal " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="20-09-2026",21:30 - 23:30 - Liga Portugal Betclic: Estrela Amadora vs AcadÃ©mico Viseu - Sport TV Portugal 
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/U888AAAQQQQ.m3u8
-#EXTINF:-1 tvg-id="805" tvg-name="Liga Portugal Betclic: Porto vs Benfica - SPORT DIGITAL FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Porto vs Benfica - SPORT DIGITAL FHD
+#EXTINF:-1 tvg-id="805" tvg-name="02:30 - 04:30 - Liga Portugal Betclic: Porto vs Benfica - SPORT DIGITAL FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="21-09-2026",02:30 - 04:30 - Liga Portugal Betclic: Porto vs Benfica - SPORT DIGITAL FHD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/vlllqQQQq.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - PRIME VIDEO FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - PRIME VIDEO FHD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - PRIME VIDEO FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - PRIME VIDEO FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - DAZN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - DAZN SPORTS FHD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - DAZN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - DAZN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c39534c92ffb832fbb8df4a8827e11e:a01fb6091ccdfa007597f1622bb1c8b6
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h8dubv8uqy/out/v1/cc3cc9c9e5d74e218d98e8899efab4e5/cenc.mpd
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - LIGUE+ LIVE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - LIGUE+ LIVE HD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - LIGUE+ LIVE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - LIGUE+ LIVE HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/doooaAA.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - MAX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - MAX SPORTS HD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - MAX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - MAX SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56852/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - LIGUE+ LIVE SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - LIGUE+ LIVE SD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - LIGUE+ LIVE SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - LIGUE+ LIVE SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 https://futbolx.ryzn.pro/psg/index.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - BeIN SPORTS USA" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - BeIN SPORTS USA
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - BeIN SPORTS USA" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - BeIN SPORTS USA
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream2.pro/hls/dza5z8f69.m3u8?
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - ESPN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - ESPN SPORTS FHD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - ESPN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - ESPN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
-#EXTINF:-1 tvg-id="824" tvg-name="Ligue 1: Marseille vs PSG - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Marseille vs PSG - GHD SPORTS HD
+#EXTINF:-1 tvg-id="824" tvg-name="01:45 - 03:45 - Ligue 1: Marseille vs PSG - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="21-09-2026",01:45 - 03:45 - Ligue 1: Marseille vs PSG - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/3e0cfd2e-ab15-4db7-99e2-d849fcff115a.m3u8
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Nice vs Lille - Ligue+ Live HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Nice vs Lille - Ligue+ Live HD
+#EXTINF:-1 tvg-id="825" tvg-name="22:15 - 00:15 - Ligue 1: Nice vs Lille - Ligue+ Live HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",22:15 - 00:15 - Ligue 1: Nice vs Lille - Ligue+ Live HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=ligue1/2026-09-20/nice-lill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=ligue1/2026-09-20/nice-lill
 https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/nice-lill/playlist.m3u8?tk=kB5TBBy5IVRX99Fy9OpE4g&e=1789959609
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Nice vs Lille - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Nice vs Lille - GHD SPORTS HD
+#EXTINF:-1 tvg-id="825" tvg-name="22:15 - 00:15 - Ligue 1: Nice vs Lille - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",22:15 - 00:15 - Ligue 1: Nice vs Lille - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/f666QQQQQ.m3u8
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Nice vs Lille - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Nice vs Lille - BeIN SPORTS HD
+#EXTINF:-1 tvg-id="825" tvg-name="22:15 - 00:15 - Ligue 1: Nice vs Lille - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",22:15 - 00:15 - Ligue 1: Nice vs Lille - BeIN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream2.pro/hls/dza5z8f69.m3u8?
-#EXTINF:-1 tvg-id="825" tvg-name="Ligue 1: Nice vs Lille - Ligue+ Live SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Nice vs Lille - Ligue+ Live SD
+#EXTINF:-1 tvg-id="825" tvg-name="22:15 - 00:15 - Ligue 1: Nice vs Lille - Ligue+ Live SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",22:15 - 00:15 - Ligue 1: Nice vs Lille - Ligue+ Live SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Auxerre vs Brest - beIN Sports USA" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Auxerre vs Brest - beIN Sports USA
+#EXTINF:-1 tvg-id="826" tvg-name="20:00 - 22:00 - Ligue 1: Auxerre vs Brest - beIN Sports USA" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",20:00 - 22:00 - Ligue 1: Auxerre vs Brest - beIN Sports USA
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream2.pro/hls/dza5z8f69.m3u8?
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Auxerre vs Brest - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Auxerre vs Brest - GHD SPORTS HD
+#EXTINF:-1 tvg-id="826" tvg-name="20:00 - 22:00 - Ligue 1: Auxerre vs Brest - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",20:00 - 22:00 - Ligue 1: Auxerre vs Brest - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/BB55AAAAAAA.m3u8
-#EXTINF:-1 tvg-id="826" tvg-name="Ligue 1: Auxerre vs Brest - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Unknown-Date",Ligue 1: Auxerre vs Brest - GHD SPORTS SD
+#EXTINF:-1 tvg-id="826" tvg-name="20:00 - 22:00 - Ligue 1: Auxerre vs Brest - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="20-09-2026",20:00 - 22:00 - Ligue 1: Auxerre vs Brest - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Dominica vs Anguilla - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Unknown-Date",International Friendly Games: Dominica vs Anguilla - GHD SPORTS - HD
+#EXTINF:-1 tvg-id="831" tvg-name="07:00 - 09:00 - International Friendly Games: Dominica vs Anguilla - GHD SPORTS - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="22-09-2026",07:00 - 09:00 - International Friendly Games: Dominica vs Anguilla - GHD SPORTS - HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.57/hls/TITITI.m3u8
-#EXTINF:-1 tvg-id="863" tvg-name="Moto - GP: MotoGP vs MotoGP - TNT SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="Unknown-Date",Moto - GP: MotoGP vs MotoGP - TNT SPORTS - AQ
+#EXTINF:-1 tvg-id="863" tvg-name="15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - TNT SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="20-09-2026",15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - TNT SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-id="863" tvg-name="Moto - GP: MotoGP vs MotoGP - MotoGp Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="Unknown-Date",Moto - GP: MotoGP vs MotoGP - MotoGp Live - AQ
+#EXTINF:-1 tvg-id="863" tvg-name="15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - MotoGp Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="20-09-2026",15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - MotoGp Live - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 tvg-id="863" tvg-name="Moto - GP: MotoGP vs MotoGP - SPOTV - FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="Unknown-Date",Moto - GP: MotoGP vs MotoGP - SPOTV - FHD
+#EXTINF:-1 tvg-id="863" tvg-name="15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - SPOTV - FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="20-09-2026",15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - SPOTV - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-id="863" tvg-name="Moto - GP: MotoGP vs MotoGP - FANCODE - FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="Unknown-Date",Moto - GP: MotoGP vs MotoGP - FANCODE - FHD
+#EXTINF:-1 tvg-id="863" tvg-name="15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - FANCODE - FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="20-09-2026",15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - FANCODE - FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="863" tvg-name="Moto - GP: MotoGP vs MotoGP - TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="Unknown-Date",Moto - GP: MotoGP vs MotoGP - TNT SPORTS HD
+#EXTINF:-1 tvg-id="863" tvg-name="15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYDLoG8PO84Lixg4bDtE2CcMOAgci5Iznuw&s" group-title="20-09-2026",15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/ssssAA.m3u8
-#EXTINF:-1 tvg-id="865" tvg-name="Women's Super League: Brighton vs Aston Villa - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="Unknown-Date",Women's Super League: Brighton vs Aston Villa - GHD SPORTS HD
+#EXTINF:-1 tvg-id="865" tvg-name="20:00 - 22:00 - Women's Super League: Brighton vs Aston Villa - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="20-09-2026",20:00 - 22:00 - Women's Super League: Brighton vs Aston Villa - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/FRRRAAAA.m3u8
-#EXTINF:-1 tvg-id="866" tvg-name="Women's Super League: Crystal Palace vs Tottenham - CBS Golazo - AQ " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="Unknown-Date",Women's Super League: Crystal Palace vs Tottenham - CBS Golazo - AQ 
+#EXTINF:-1 tvg-id="866" tvg-name="20:00 - 22:00 - Women's Super League: Crystal Palace vs Tottenham - CBS Golazo - AQ " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="20-09-2026",20:00 - 22:00 - Women's Super League: Crystal Palace vs Tottenham - CBS Golazo - AQ 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -920,82 +920,82 @@ http://193.47.62.59/hls/FRRRAAAA.m3u8
 #EXTVLCOPT:http-origin=https://amazon.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="866" tvg-name="Women's Super League: Crystal Palace vs Tottenham - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="Unknown-Date",Women's Super League: Crystal Palace vs Tottenham - GHD SPORTS HD
+#EXTINF:-1 tvg-id="866" tvg-name="20:00 - 22:00 - Women's Super League: Crystal Palace vs Tottenham - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="20-09-2026",20:00 - 22:00 - Women's Super League: Crystal Palace vs Tottenham - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/FRRRAAAAA.m3u8
-#EXTINF:-1 tvg-id="981" tvg-name="CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - Willow Cricbuzz - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10" group-title="Unknown-Date",CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="981" tvg-name="06:00 - 11:29 - CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - Willow Cricbuzz - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10" group-title="21-09-2026",06:00 - 11:29 - CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd
-#EXTINF:-1 tvg-id="981" tvg-name="CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - TNT Sports - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10" group-title="Unknown-Date",CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - TNT Sports - AQ
+#EXTINF:-1 tvg-id="981" tvg-name="06:00 - 11:29 - CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - TNT Sports - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB49Ots999ksA_7_rM-ogMqW8S0hxDN58ogYa5SNHhhgHQOuyJ3vzohU&s=10" group-title="21-09-2026",06:00 - 11:29 - CARIBBEAN PREMIER LEAGUE, FINAL: CPL vs CPL - TNT Sports - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?
-#EXTINF:-1 tvg-id="989" tvg-name="Liga Portugal Betclic: Estoril vs Casa Pia -  GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Estoril vs Casa Pia -  GHD SPORTS HD
+#EXTINF:-1 tvg-id="989" tvg-name="00:00 - 02:00 - Liga Portugal Betclic: Estoril vs Casa Pia -  GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="21-09-2026",00:00 - 02:00 - Liga Portugal Betclic: Estoril vs Casa Pia -  GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/DLLL.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/UYYYAAAAQQQQQ.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - BeIN SPORTS HD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - BeIN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/72339860_84487dc38d0e9ee8daff17984459bea2_720p.m3u8?auth_key=1789916430-0-0-50bb87b0a2f4dd7a34087c87a0b8c6d2
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - SKY SPORTS+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - SKY SPORTS+ HD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - SKY SPORTS+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - SKY SPORTS+ HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-hd/chunks.m3u8?is_vip=false&token=1789994877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5d6b43380cc583db89411a2452b11a1
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - FANCODE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - FANCODE HD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - FANCODE HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - FANCODE HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098-fancode/chunks.m3u8?is_vip=false&token=1789994878-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81534bbfdfc214aa3a1fe5d034070698
-#EXTINF:-1 tvg-id="1005" tvg-name="Championship: Wolves vs West Brom - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Wolves vs West Brom - CBS SPORTS HD
+#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Wolves vs West Brom - CBS SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",18:00 - 20:00 - Championship: Wolves vs West Brom - CBS SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58098/chunks.m3u8?is_vip=false&token=1789994879-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-34182efd4b61badde863c3be97d611c7
-#EXTINF:-1 tvg-id="1006" tvg-name="Championship: Norwich vs Bolton - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Norwich vs Bolton - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1006" tvg-name="19:30 - 21:30 - Championship: Norwich vs Bolton - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",19:30 - 21:30 - Championship: Norwich vs Bolton - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/NIIIQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="1006" tvg-name="Championship: Norwich vs Bolton - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Unknown-Date",Championship: Norwich vs Bolton - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1006" tvg-name="19:30 - 21:30 - Championship: Norwich vs Bolton - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="20-09-2026",19:30 - 21:30 - Championship: Norwich vs Bolton - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.dyrur1.com/live/72339852_85a7056472e51a22a5911e05206150f8_540p.m3u8?auth_key=1789921397-0-0-838390501288f5e8e100188c41b12fb0
-#EXTINF:-1 tvg-id="1050" tvg-name="Women's Super League: West Ham vs Everton - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="Unknown-Date",Women's Super League: West Ham vs Everton - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1050" tvg-name="20:00 - 22:00 - Women's Super League: West Ham vs Everton - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1044/image/dark" group-title="20-09-2026",20:00 - 22:00 - Women's Super League: West Ham vs Everton - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/FRRRAAAAAQ.m3u8
-#EXTINF:-1 tvg-id="1063" tvg-name="Liga Portugal Betclic: Santa Clara vs Braga - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Santa Clara vs Braga - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1063" tvg-name="00:00 - 02:00 - Liga Portugal Betclic: Santa Clara vs Braga - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="21-09-2026",00:00 - 02:00 - Liga Portugal Betclic: Santa Clara vs Braga - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/DLLLQ.m3u8
-#EXTINF:-1 tvg-id="1063" tvg-name="Liga Portugal Betclic: Santa Clara vs Braga - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Unknown-Date",Liga Portugal Betclic: Santa Clara vs Braga - Sport Digital FHD
+#EXTINF:-1 tvg-id="1063" tvg-name="00:00 - 02:00 - Liga Portugal Betclic: Santa Clara vs Braga - Sport Digital FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="21-09-2026",00:00 - 02:00 - Liga Portugal Betclic: Santa Clara vs Braga - Sport Digital FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
