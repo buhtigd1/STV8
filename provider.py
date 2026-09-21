@@ -15,8 +15,9 @@ def format_event_time(start_str, end_str):
     try:
         if not start_str or not end_str:
             return ""
-        start = datetime.datetime.fromisoformat(start_str.replace("Z","")).astimezone(ZoneInfo("Asia/Jakarta"))
-        end = datetime.datetime.fromisoformat(end_str.replace("Z","")).astimezone(ZoneInfo("Asia/Jakarta"))
+        # Handle format like "2026/09/22 04:00:00 +0000"
+        start = datetime.datetime.strptime(start_str, "%Y/%m/%d %H:%M:%S %z").astimezone(ZoneInfo("Asia/Jakarta"))
+        end = datetime.datetime.strptime(end_str, "%Y/%m/%d %H:%M:%S %z").astimezone(ZoneInfo("Asia/Jakarta"))
         return f"{start.strftime('%H:%M')} - {end.strftime('%H:%M')}"
     except Exception:
         return ""
@@ -25,8 +26,8 @@ def get_event_date(start_str):
     """Convert UTC timestamp to Jakarta date string (DD-MM-YYYY)."""
     try:
         if start_str:
-            start_dt = datetime.datetime.fromisoformat(start_str.replace("Z","")).astimezone(ZoneInfo("Asia/Jakarta"))
-            return start_dt.strftime("%d-%m-%Y")
+            dt = datetime.datetime.strptime(start_str, "%Y/%m/%d %H:%M:%S %z").astimezone(ZoneInfo("Asia/Jakarta"))
+            return dt.strftime("%d-%m-%Y")
         return "Unknown-Date"
     except Exception:
         return "Unknown-Date"
@@ -43,7 +44,6 @@ def create_m3u(data, filename="stv8.m3u"):
             teamA = event_info.get("teamA", "")
             teamB = event_info.get("teamB", "")
 
-            # Format Jakarta time window
             start_time = event_info.get("startTime", "")
             end_time = event_info.get("endTime", "")
             time_label = format_event_time(start_time, end_time)
