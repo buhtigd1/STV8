@@ -1,6 +1,6 @@
-Generated on: 2026-09-21 12:06:49.430604
-Total events: 50
-Total streams: 189
+Generated on: 2026-09-21 21:44:31.830354
+Total events: 49
+Total streams: 184
 
 Event (22-09-2026): 11:00 - 18:30 - T20 International: JPN vs IND
   Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd | license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
@@ -205,13 +205,6 @@ Event (24-09-2026): 07:00 - 11:00 - AEW Dynamite: AEW vs AEW
   GHD SPORTS HD -> https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
   GHD SPORTS SD -> http://193.47.62.52/hls/foooAAa.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (20-09-2026): 15:01 - 21:55 - Moto - GP: MotoGP vs MotoGP
-  TNT SPORTS - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-  MotoGp Live - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd | license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-  SPOTV - FHD -> https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd | license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-  FANCODE - FHD -> https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd | license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-  TNT SPORTS HD -> http://193.47.62.44/hls/ssssAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-
 Event (11-10-2026): 02:30 - 04:30 - Liga Portugal Betclic: AcadÃ©mico Viseu vs Estoril
    GHD SPORTS HD -> http://193.47.62.59/hls/DLLL.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
@@ -260,7 +253,7 @@ Event (23-09-2026): 01:00 - 03:00 - Football League Trophy: Leicester vs Fulham 
   GHD SPORTS HD -> http://193.47.62.59/hls/ZLLLQQQQ.m3u8 | license_key=
 
 Event (22-09-2026): 00:30 - 02:30 - Liga Profesional de FÃºtbol: Aldosivi vs AtlÃ©tico TucumÃ¡n
-   -> http://193.47.62.44/hls/MMMM.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+   -> http://193.47.62.59/hls/ZYYY.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (22-09-2026): 05:00 - 07:00 - Liga Profesional de FÃºtbol: Barracas vs Ind. Rivadavia
    -> http://193.47.62.50/hls/RFRFRFQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
