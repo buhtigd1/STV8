@@ -1,14 +1,14 @@
-Generated on: 2026-09-22 03:31:33.984698
-Total events: 45
-Total streams: 181
+Generated on: 2026-09-22 11:02:00.776556
+Total events: 49
+Total streams: 221
 
 Event (22-09-2026): 11:00 - 18:30 - T20 International: JPN vs IND
-  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd | license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
-  Willow CricBuzz - ALT -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5nicrqiyf/out/v1/6659e5152b4e4bb89917f57640f594fb/cenc.mpd | license_key=8e802e5373c59195ff0a9838814db6f4:d76ecf4be947c06874c1b57427f9e85b
   FANCODE ENG - FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd | license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-  SONY SPORTS ENG - (IN-IP) -> https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001) | license_key=
-  SONY SPORTS TAM - (IN-IP) -> https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001) | license_key=
   Willow Cricbuzz - HD -> http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd | license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
+  Willow CricBuzz - ALT -> https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd | license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
+  FANCODE HIN (IN IP) -> https://dai-fancode.pages.dev/mumbai/4249214_hindi_hls_58428cc2d396091_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
+  FANCODE ENG (IN IP) -> https://dai-fancode.pages.dev/mumbai/4249214_english_hls_891bdfaa5646721_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
 
 Event (22-09-2026): 18:30 - 02:00 - SRI LANKA TOUR OF ENGLAND: ENG vs SL
   Willow Cricbizz - AQ -> https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/acwviu4yoa/out/v1/e2a305a5f12840cdbd24c1f8046fe1be/cenc.mpd | license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
@@ -37,10 +37,6 @@ Event (26-09-2026): 07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDo
   HD SERVER -> https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info | license_key=
   HD SERVER  -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
   HD SERVER  -> http://193.47.62.41/hls/UIIIAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-
-Event (22-09-2026): 07:00 - 11:00 - WWE Monday Night RAW: RAW vs RAW
-  RAW NETWORK 247 -> https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
-  GHD SPORTS HD -> http://193.47.62.59/hls/K999QQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (10-10-2026): 18:30 - 20:30 - Premier League: Arsenal vs Leeds
   FUBO SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ovcmulril/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd | license_key=5667d6e86c780df274b842525af51b71:6a3152c6abd14ce16e1584af2ac69983
@@ -126,20 +122,21 @@ Event (11-10-2026): 02:00 - 04:00 - LaLiga: Real Madrid vs Villarreal
   ESPN SPORTS HD -> https://chatgpt.hereisman.net/playlist/56802/load-playlist?|Referer=https://gooz.aapmains.net | license_key=
   EAPN SPORTS SD -> https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online | license_key=
 
-Event (22-09-2026): 07:00 - 12:39 - Asian Games Women: PAK-W vs BAN-W
+Event (22-09-2026): 07:00 - 11:00 - Asian Games Women: PAK-W vs BAN-W
   Willow Cricbuzz - AQ -> https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd | license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
   Willow Cricbuzz - HD -> http://193.47.62.59/hls/K999.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   SonyLiv ENG - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/AG2026_D2109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f691aae3d1074f653fce1065bfd82cfe-1790033404867 | license_key=
   TAPMAD ENG- AQ -> https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8|referer=https://tapmad.com | license_key=
 
 Event (22-09-2026): 12:00 - 18:00 - Asian Games Women, Final: SL-W vs IND-W
-  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ti5wh1erw/out/v1/0a22d40d486f4a62a36a4865e1544c31/cenc.mpd | license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-  Willow Cricbuzz - alt -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
-  SonyLiv HIN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651 | license_key=
-  SonyLiv ENG - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651 | license_key=
-  SonyLiv TAM - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2009/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651 | license_key=
-  SonyLiv TEL - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651 | license_key=
-  SonyLiv KAN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651 | license_key=
+  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd | license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
+  Willow Cricbuzz - ALT -> https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mhafawkat7/out/v1/bcd1058ace2b4f1b90739cd7f847054c/cenc.mpd | license_key=26b5d1e236534979b5f85ffa22a37dbf:cfd708ebfd7d08d24fd0033b9bd9e62e
+  TAPMAD ENG - AQ -> https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8|referer=https://tapmad.com/ | license_key=
+  SonyLiv HIN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2209/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358 | license_key=
+  SonyLiv ENG - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358 | license_key=
+  SonyLiv TAM - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2209/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358 | license_key=
+  SonyLiv TEL - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2209/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358 | license_key=
+  SonyLiv KAN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2209/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac5c9139daa7b1e82543ea4043814dc3-1790049002358 | license_key=
 
 Event (10-10-2026): 20:30 - 22:30 - Bundesliga: Union Berlin vs Elversberg
   SPORT TV - FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
@@ -172,6 +169,57 @@ Event (10-10-2026): 21:30 - 23:30 - Liga Portugal Betclic: Casa Pia vs Santa Cla
 
 Event (11-10-2026): 00:00 - 02:00 - Liga Portugal Betclic: MarÃ­timo vs Porto
   SPORT DIGITAL FHD -> http://193.47.62.59/hls/vlllqQQQq.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+
+Event (22-09-2026): 23:45 - 01:45 - UEFA Women's Champions League: Bayern vs Man City
+  TNT2 SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+  TRT SPORTS - HD -> https://tv-trt1.medya.trt.com.tr/master.m3u8 | license_key=
+  CBS SPORTS - HD -> https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8 | license_key=
+  DAZN SPORTS - HD -> https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8 | license_key=
+  SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932 | license_key=
+  GHD SPORTS HD -> http://193.47.62.50/hls/VAAAQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/bf5477a3-55c0-478a-a3c6-7492c2897ac1.m3u8 | license_key=
+
+Event (23-09-2026): 02:00 - 04:00 - UEFA Women's Champions League: Arsenal vs HB KÃ¸ge
+  TNT SPORTS3 - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd? | license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+  SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1aa342b0c16d12fa6b1bdfb6190aa0e3-1789056601932 | license_key=
+  GHD SPORTS HD -> http://193.47.62.59/hls/VAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/88baf42d-6bb2-490c-b308-6a2b2f77bb71.m3u8 | license_key=
+
+Event (22-09-2026): 23:45 - 01:45 - UEFA Women's Champions League: Inter vs HÃ¤cken
+  TNT SPORTS2 FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+  GHD SPORTS HD -> http://193.47.62.59/hls/OOOOHH.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  BeIN  SPORTS FHD -> https://live.dyrur1.com/live/74165898_deca217ad82826756170ff677e7d71b4_540p.m3u8?auth_key=1789080807-0-0-fe956a7d1d6671053d15f406fc879249 | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/a3898c5a-43ee-4886-b244-9a0789d94752.m3u8 | license_key=
+  DAZN SPORTS - HD -> https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8 | license_key=
+  TUDN SPORTS HD -> https://xyzstreams.blog/2/stream/sling/tudniplldishonly/stream_0.m3u8|Referer=https://xyzstreams.st/ | license_key=
+  DAZN SPORTS HD -> https://cdn9.zohanayaan.com:1686/hls/do17.m3u8?md5=_efYA4WiBFwh6gUPcNl1wA&expires=1789072241|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  TNT SPORTS HD -> https://cdn1.zohanayaan.com:1686/hls/do2.m3u8?md5=agOJunlcn9OusfefHHKmWA&expires=1789072231|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  CANAL SPORTS HD -> https://cdn2.zohanayaan.com:1686/hls/do52.m3u8?md5=BaG_FSltxKs0_QjHsvAzuA&expires=1789072246|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  FAST SERVER HD -> https://cdn15.zohanayaan.com:1686/hls/mevent14.m3u8?md5=hcgQ0IMg_gHRPsjbr5YvSA&expires=1789072223|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  CBS SPORTS HD -> https://instreams.live/live/LHD2/index.m3u8?st=C4ba0X6Gr0tzEEqbDob1pQ&e=1789075813|origin=https://instream.click/livetv.php?stream=LHD2&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://instream.click/livetv.php?stream=LHD2 | license_key=
+
+Event (23-09-2026): 02:00 - 04:00 - UEFA Women's Champions League: Juventus vs Benfica
+  TNT3 SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd? | license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+  GHD SPORTS HD -> https://www.rtmpcdn.com/live/72e1a9e2-2d8a-4241-97f6-23a6c6ae0314.m3u8 | license_key=
+  GHD SPORTS SD -> http://193.47.62.59/hls/OOOOH.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  CBS NETWORK HD -> https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8 | license_key=
+  CBS SPORTS HD -> https://cdn10.zohanayaan.com:1686/hls/do8.m3u8?md5=ogQHE1v28zFJeUjTYroqWQ&expires=1789072233|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  CANAL SPORTS HD -> https://cdn10.zohanayaan.com:1686/hls/do54.m3u8?md5=4yKpMEqXmV044PHxQx9qpA&expires=1789072266|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  SKY SPORTS HD -> https://cdn7.zohanayaan.com:1686/hls/do47.m3u8?md5=np9oQkpG587vaiBJFSC2-Q&expires=1789072235|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  TNT SPORTS HD -> https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://streame.center | license_key=
+  FAST SERVER HD -> https://cdn12.zohanayaan.com:1686/hls/mevent12.m3u8?md5=6Y4IWPwZ95IIiSl9vpHjKA&expires=1789072226|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+
+Event (23-09-2026): 02:00 - 04:00 - UEFA Women's Champions League: Real Madrid vs PSG
+  TNT SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+  ESPN2 SPORTS FHD -> https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd | license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+  BeIN SPORTS HD -> https://live2.dyrur1.com/live/74165900_237fb2f7aabe3c5c8c4696038bdeb995_540p.m3u8?auth_key=1789080807-0-0-c4ce83d97d65ff540620746c973a8869 | license_key=
+  GHD SPORTS HD -> https://www.rtmpcdn.com/live/fca856ec-5bba-4914-b2b1-c36664148eae.m3u8 | license_key=
+  GHD SPORTS SD -> http://193.47.62.59/hls/OOOOHHH.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  TNT SPORTS HD -> https://xyzstreams.blog/1/tnt1/mono.ts.m3u8|Referer=https://xyzstreams.st/ | license_key=
+  LIGA DE Comp -> https://7.domhsd.com:443/global/max2/index.m3u8?token=634aac954cdcf60b1cd6f111eede63b4336bead2-b5-1789106418-1789052418|origin=https://streamtp-golden1.click/global1.php?stream=max2&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://streamtp-golden1.click/global1.php?stream=max2 | license_key=
+  V SPORTS HD -> https://cdn1.zohanayaan.com:1686/hls/do78.m3u8?md5=LbEcR5posrdxvD864tJggw&expires=1789072229|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  PARAMOUNT HD -> https://cdn14.zohanayaan.com:1686/hls/mevent15.m3u8?md5=0z8MfUePtjlp8ELO3C_0XA&expires=1789072222|origin=https://forgemindly.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://forgemindly.com/ | license_key=
+  FAST SERVER HD -> https://instreams.pro/live/LHD3/index.m3u8?st=5u5pqJyD_QA6YcHMMejAcQ&e=1789075815|origin=https://instream.click/livetv.php?stream=LHD3&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://instream.click/livetv.php?stream=LHD3 | license_key=
 
 Event (10-10-2026): 22:15 - 00:15 - Ligue 1: Lille vs Le Havre
   PRIME VIDEO FHD -> https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd | license_key=62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939
