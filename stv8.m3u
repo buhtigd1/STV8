@@ -165,19 +165,6 @@ https://chatgpt.hereisman.net/playlist/55739/load-playlist
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0aeeb4af-9141-46a6-b13b-56cf8bbffc95/master.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - FAST SERVER HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/FIOOOQQ.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="23-09-2026",07:00 - 11:00 - WWE NXT: NXT vs NXT - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #EXTINF:-1 tvg-id="295" tvg-name="07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDown - HD SERVER" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="26-09-2026",07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDown - HD SERVER
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1114,22 +1101,16 @@ https://edgestream2.pro/hls/ueyeztrazb4.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="1075" tvg-name="12:30 - 14:30 - Asian Games: Iran U23 vs North Korea U23 - " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1862/image/dark" group-title="23-09-2026",12:30 - 14:30 - Asian Games: Iran U23 vs North Korea U23 - 
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/FRRRA.m3u8
-#EXTINF:-1 tvg-id="1076" tvg-name="12:30 - 14:30 - Asian Games: China U23 vs UAE U23 - " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1862/image/dark" group-title="23-09-2026",12:30 - 14:30 - Asian Games: China U23 vs UAE U23 - 
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/FRRR.m3u8
 #EXTINF:-1 tvg-id="1077" tvg-name="17:30 - 19:30 - Asian Games: Japan U23 vs Thailand U23 - " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1862/image/dark" group-title="23-09-2026",17:30 - 19:30 - Asian Games: Japan U23 vs Thailand U23 - 
-xn
-#EXTINF:-1 tvg-id="1078" tvg-name="17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23 - " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1862/image/dark" group-title="23-09-2026",17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23 - 
-bz
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/FOOO.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23 - " tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1862/image/dark" group-title="23-09-2026",17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23 - 
-bz
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/FOOOQ.m3u8
 #EXTINF:-1 tvg-id="770" tvg-name="23:00 - 01:00 - Serie A: Inter vs Parma - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="10-10-2026",23:00 - 01:00 - Serie A: Inter vs Parma - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

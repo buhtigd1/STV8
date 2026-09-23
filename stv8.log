@@ -1,6 +1,6 @@
-Generated on: 2026-09-23 10:51:13.177829
-Total events: 51
-Total streams: 212
+Generated on: 2026-09-23 16:12:05.233650
+Total events: 47
+Total streams: 206
 
 Event (27-09-2026): 15:30 - 00:30 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd | license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
@@ -42,11 +42,6 @@ Event (24-09-2026): 15:30 - 20:29 - Formula1: FORMULA 1 vs FORMULA 1
   SKY SPORTS -  HD -> https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online | license_key=
   SKY F1 SPORTS - SD -> https://chatgpt.hereisman.net/playlist/55739/load-playlist|origin=https://gooz.aapmains.net/new-stream-embed/55739?ad=111&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://gooz.aapmains.net/new-stream-embed/55739?ad=111 | license_key=
   SPORTCAST - SD -> https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0aeeb4af-9141-46a6-b13b-56cf8bbffc95/master.m3u8 | license_key=
-
-Event (23-09-2026): 07:00 - 11:00 - WWE NXT: NXT vs NXT
-  FAST SERVER HD -> http://193.47.62.55/hls/FIOOOQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  GHD SPORTS - HD -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8 | license_key=
-  GHD SPORTS - HD -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
 
 Event (26-09-2026): 07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDown
   HD SERVER -> https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info | license_key=
@@ -293,20 +288,11 @@ Event (10-10-2026): 23:30 - 01:30 - Bundesliga: Leipzig vs Frankfurt
   SKY FOOTBALL HD -> https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center | license_key=
   CANAL SPORTS HD -> https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
 
-Event (23-09-2026): 12:30 - 14:30 - Asian Games: Iran U23 vs North Korea U23
-   -> http://193.47.62.55/hls/FRRRA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-
-Event (23-09-2026): 12:30 - 14:30 - Asian Games: China U23 vs UAE U23
-   -> http://193.47.62.55/hls/FRRR.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-
 Event (23-09-2026): 17:30 - 19:30 - Asian Games: Japan U23 vs Thailand U23
-   -> xn | license_key=
+   -> http://193.47.62.59/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (23-09-2026): 17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23
-   -> bz | license_key=
-
-Event (23-09-2026): 17:30 - 19:30 - Asian Games: Kyrgyzstan U23 vs Hong Kong U23
-   -> bz | license_key=
+   -> http://193.47.62.59/hls/FOOOQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (10-10-2026): 23:00 - 01:00 - Serie A: Inter vs Parma
   BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
