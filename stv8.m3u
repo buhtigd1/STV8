@@ -563,11 +563,19 @@ https://chatgpt.hereisman.net/playlist/56802/load-playlist?
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream1.pro/hls/377qj1h2727.m3u8?
-#EXTINF:-1 tvg-id="760" tvg-name="07:00 - 12:00 - Asian Games: AFG vs JPN - Sky Sports Cricket - HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="24-09-2026",07:00 - 12:00 - Asian Games: AFG vs JPN - Sky Sports Cricket - HD
+#EXTINF:-1 tvg-id="760" tvg-name="07:00 - 12:00 - Asian Games: AFG vs JPN - Willow Cricbuzz AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="24-09-2026",07:00 - 12:00 - Asian Games: AFG vs JPN - Willow Cricbuzz AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uwxerw2eey/out/v1/14e8580d2e304df391b94c8eb68553a9/cenc.mpd
+#EXTINF:-1 tvg-id="760" tvg-name="07:00 - 12:00 - Asian Games: AFG vs JPN - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="24-09-2026",07:00 - 12:00 - Asian Games: AFG vs JPN - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.42/hls/YVVV.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="12:00 - 17:00 - Asian Games: HK vs MAS - FANCODE IN" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="24-09-2026",12:00 - 17:00 - Asian Games: HK vs MAS - FANCODE IN
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls

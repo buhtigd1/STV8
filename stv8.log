@@ -1,6 +1,6 @@
-Generated on: 2026-09-23 21:08:41.348384
+Generated on: 2026-09-24 03:22:03.344490
 Total events: 47
-Total streams: 210
+Total streams: 211
 
 Event (27-09-2026): 15:30 - 00:30 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd | license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
@@ -133,7 +133,8 @@ Event (11-10-2026): 02:00 - 04:00 - LaLiga: Real Madrid vs Villarreal
   EAPN SPORTS SD -> https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online | license_key=
 
 Event (24-09-2026): 07:00 - 12:00 - Asian Games: AFG vs JPN
-  Sky Sports Cricket - HD -> http://193.47.62.42/hls/YVVV.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  Willow Cricbuzz AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uwxerw2eey/out/v1/14e8580d2e304df391b94c8eb68553a9/cenc.mpd | license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
+  SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=56c5f903c2a3a08ee8646fcc8b0a1bba-1790206204794 | license_key=
 
 Event (24-09-2026): 12:00 - 17:00 - Asian Games: HK vs MAS
   FANCODE IN -> https://dai-fancode.pages.dev/mumbai/4249173_english_hls_7428890b2635008_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
