@@ -1,6 +1,6 @@
-Generated on: 2026-09-25 11:15:38.827799
+Generated on: 2026-09-25 16:39:32.764014
 Total events: 55
-Total streams: 237
+Total streams: 249
 
 Event (27-09-2026): 15:30 - 00:30 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd | license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
@@ -33,9 +33,10 @@ Event (26-09-2026): 07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDo
   HD SERVER  -> http://193.47.62.41/hls/UIIIAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (25-09-2026): 20:00 - 22:00 - Africa Cup of Nations Qual.: Senegal vs Mozambique
-  BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-  GHD SPORTS - HD -> http://193.47.62.55/hls/ELLLAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  GHD SPORTS SD -> https://www.rtmpcdn.com/live/039a19f5-0fee-4e35-a534-e33fa11bb5cd.m3u8 | license_key=
+  BeIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|referer=https://www.amazon.com/&origin=https://www.amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+  BEIN SPORTS HD -> http://193.47.62.50/hls/NAAAQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  beIN sports Xtra HD -> https://bein-xtra-bein.amagi.tv/playlist.m3u8 | license_key=
+  FAST SERVER HD -> https://live3.dyrur1.com/live/j374oi0pgwvhgqo_00375a46bf33f4f64843a544a09072d0_540p.m3u8?auth_key=1790355489-0-0-54980e599648f60e652acef1121b8207 | license_key=
 
 Event (25-09-2026): 23:00 - 01:00 - Africa Cup of Nations Qual.: Nigeria vs Madagascar
   BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -193,12 +194,21 @@ Event (11-10-2026): 01:45 - 03:45 - Ligue 1: Brest vs Angers
   GHD SPORTS HD -> http://193.47.62.59/hls/BB55AAAAAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8 | license_key=
 
-Event (25-09-2026): 17:00 - 19:00 - International Friendly Games: Australia vs Brazil
+Event (25-09-2026): 17:00 - 19:20 - International Friendly Games: Australia vs Brazil
   SPORT TV BR FHD -> https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd | license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-  TYC SPORTS HD -> https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8 | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS HD -> https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://soco.domainkqt.cc/ | license_key=
 
 Event (25-09-2026): 21:00 - 23:00 - International Friendly Games: India vs Panama
-  GHD SPORTS  - HD -> http://193.47.62.50/hls/JFFFA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS HD -> http://193.47.62.41/hls/GIIIA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  SonyLiv HIN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive2509/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  SonyLiv ENG - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  SonyLiv TAM - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive2509/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  SonyLiv TEL - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Footlive2509/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  SonyLiv KAN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive2509/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  SonyLiv BEN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2509/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=48c1cd5a117e29ec998504cef9dc84d9-1790343901321 | license_key=
+  Sony TEN 2 HD (IND IP) -> https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001) | license_key=
+  Sony TEN 2 SD (IND IP) -> https://cloudplay-sonyliv.pages.dev/ten2.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001) | license_key=
 
 Event (27-09-2026): 03:30 - 05:30 - International Friendly Games: USA vs Peru
   PREMIER SPORTS - AQ -> http://193.47.62.42/hls/AMMMAAAAAAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
@@ -248,13 +258,15 @@ Event (10-10-2026): 23:30 - 01:30 - Bundesliga: Leipzig vs Frankfurt
   SKY FOOTBALL HD -> https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center | license_key=
   CANAL SPORTS HD -> https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
 
-Event (25-09-2026): 16:00 - 18:00 - ASEAN Cup: Bangladesh vs Malaysia
-  Tapmad ENG AQ -> https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  HD SERVER  -> http://193.47.62.50/hls/dooo.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+Event (25-09-2026): 20:00 - 22:00 - ASEAN Cup: Indonesia vs Singapore
+  GHD SPORTS FHD -> https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd | license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
+  GHD SPORTS HD -> http://193.47.62.41/hls/NAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  TAPMAD ENG FHD -> https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/ | license_key=
+  DAZN SPORTS HD -> https://godfather.bondsplive.online/borehd/logo.png?&e=.m3u8 | license_key=
+  FAST SERVER HD -> https://live2.zundrixmediapipeline.com/live/channel15.m3u8 | license_key=
 
 Event (25-09-2026): 23:00 - 01:00 - UEFA Nations League: Armenia vs Latvia
-  GHD SPORTS HD -> https://www.rtmpcdn.com/live/af91c0fd-6732-4310-a7ea-01c14768668f.m3u8 | license_key=
-  FOX SOCCER + HD -> https://chatgpt.hereisman.net/playlist/56993/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
+  SPORT TV BR AQ -> https://ABGPU4GAAAAAAAAME77EHQQ2GEEW7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd | license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
   GHD SPORTS SD -> http://193.47.62.59/hls/veeeAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (25-09-2026): 23:00 - 01:00 - UEFA Nations League: Georgia vs Northern Ireland
