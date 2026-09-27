@@ -1,6 +1,6 @@
-Generated on: 2026-09-26 20:41:39.492292
-Total events: 52
-Total streams: 223
+Generated on: 2026-09-27 03:54:33.983683
+Total events: 60
+Total streams: 250
 
 Event (27-09-2026): 15:30 - 00:30 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd | license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
@@ -18,6 +18,18 @@ Event (27-09-2026): 16:30 - 00:55 - SRI LANKA TOUR OF ENGLAND: ENG vs SL
   SKY CRICKET - AQ -> https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla | license_key=
   GHD SPORTS - SD -> http://193.47.62.59/hls/ELLLA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   TAPMAD ENG - AQ -> https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/ | license_key=
+
+Event (27-09-2026): 14:30 - 21:00 - One Day International Women: ZIM-W vs WI-W
+  FANCODE - AQ -> http://51.77.217.114:8089/WIvsZIM/index.m3u8 | license_key=
+
+Event (27-09-2026): 15:00 - 23:00 - One Day International: SA vs AUS
+  Willow Cricbuzz - AQ -> https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd | license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
+  SKY CRICKET FHD -> https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla | license_key=
+  FANCODE ENG FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd | license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+  SKY SPORTS+ HD -> http://193.47.62.59/hls/RRRRA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  TAPMAD ENG - AQ -> https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com | license_key=
+  SKY CRICKET HD -> http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8 | license_key=
+  FANCODE ENG - (IN IP) -> https://dai-fancode.pages.dev/mumbai/4249778_english_hls_a11e04665e35882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
 
 Event (26-09-2026): 07:00 - 11:19 - Friday Night SmackDown: SmackDown vs SmackDown
   HD SERVER -> https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
@@ -122,12 +134,22 @@ Event (26-09-2026): 17:00 - 19:00 - Liga F Moeve: FC Badalona vs Granada CF
 Event (26-09-2026): 17:00 - 19:00 - Liga F Moeve: R. Sociedad vs Real Madrid
   GHD SPORTS HD -> http://193.47.62.50/hls/GNNNA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (26-09-2026): 07:00 - 10:10 - Asian Games: JPN vs NEP
+Event (28-09-2026): 07:00 - 12:00 - Asian Games: PAK vs HK
+  Willow Cricbuzz - AQ -> https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cumxaj9bgt/out/v1/84156aa620d84a00bf9ec1a949d1cbd9/cenc.mpd | license_key=ba8896d605246871ac424878491d86a1:8600d4153034b3cbc852f13ea4b7482c
+  TAPMAD ENG- AQ -> https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8|referer=https://tapmad.com | license_key=
+
+Event (28-09-2026): 11:30 - 17:00 - Asian Games: IND vs AFG
+  Willow Cricbuzz - AQ -> https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kvdztx0wyt/out/v1/35c85c1cc5264ddaa6d601acb893c9bf/cenc.mpd | license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
+  Willow Cricbuzz - ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kvdztx0wyt/out/v1/35c85c1cc5264ddaa6d601acb893c9bf/cenc.mpd | license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
+  TAPMAD ENG - AQ -> https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8|referer=https://tapmad.com/ | license_key=
+  Willow Cricbuzz HD -> http://193.47.62.44/hls/EVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/ | license_key=
+
+Event (29-09-2026): 07:00 - 12:00 - Asian Games: SL vs NEP
   Willow Cricbuzz AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/idczxkgq7l/out/v1/169a00dcc2444e119f18bb2638b0e368/cenc.mpd | license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
   SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=98f61979901c2ef0321334576db96967-1790379301165 | license_key=
   Willow Cricbuzz HD -> http://193.47.62.55/hls/sddd.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (26-09-2026): 12:00 - 14:00 - Asian Games: MAS vs OMA
+Event (29-09-2026): 11:30 - 17:20 - Asian Games: BAN vs MAS
   Willow cricket FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd | license_key=5aab7e7ac344b32e7e1acea2d92c78f3:d6c5d1c0ed77d1f1a0a87af823591c78
   SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2f44e521913a99f56668a2b64abc186b-1790397003883 | license_key=
   Willow cricket HD -> http://193.47.62.55/hls/sddd.m3u8|Referer=http://www.fawanews.sc/ | license_key=
@@ -143,6 +165,12 @@ Event (10-10-2026): 20:30 - 22:30 - Bundesliga: Augsburg vs Bayern
 Event (10-10-2026): 20:30 - 22:30 - Bundesliga: Mainz 05 vs Leverkusen
   GHD SPORTS HD -> http://193.47.62.59/hls/VIIIAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8 | license_key=
+
+Event (28-09-2026): 06:00 - 08:00 - MLS: Columbus vs Inter Miami
+  APPLE  TV - HD -> http://193.47.62.41/hls/SKKKQQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  APPLE  TV - SD -> https://messi.damitv.st/live-hls/channel/mls/2026-09-20/mia-sd/playlist.m3u8?tk=VZJv_BqOWR009JkyQDwXSw&e=1789986609|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=mls/2026-09-20/mia-sd | license_key=
+  APPLE  TV - LQ -> https://chatgpt.hereisman.net/playlist/56881/load-playlist|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://gooz.aapmains.net/new-stream-embed/56881?ad=111 | license_key=
+  FAST SERVER HD -> https://hwyypull.ncctrials.com/live/stream-557437_lhd.m3u8 | license_key=
 
 Event (26-09-2026): 21:30 - 23:30 - Liga F Moeve: LogroÃ±o vs FC Barcelona
   GHD SPORTS HD -> http://193.47.62.50/hls/ykkkqQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
@@ -189,23 +217,26 @@ Event (11-10-2026): 01:45 - 03:45 - Ligue 1: Brest vs Angers
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8 | license_key=
 
 Event (27-09-2026): 03:30 - 05:30 - International Friendly Games: USA vs Peru
-  NBC SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-  TELEMUNDO - HD -> https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8 | license_key=
-  GHD SPORTS SD -> https://www.rtmpcdn.com/live/ea2089c8-a994-4c74-ac42-17b1ee90ecc0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/ | license_key=
-  GHD SPORTS HD -> https://live2.zundrixmediapipeline.com/live/channel28.m3u8|referer=https://soco.domainkqt.cc/ | license_key=
+  GHD SPORTS HD -> https://hey.futbol-tv.online/usa/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
+  GHD SPORTS SD -> https://instreams.live/live/tv401905203/index.m3u8?st=7T7TegK0VP2v7BQZO4a0RQ&e=1790463671|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401905203 | license_key=
+  FAST SERVER HD -> https://play.aarray.cn/rrty/sd-1-4650024_gqzm.m3u8?auth_key=1790458802-0-0-05c09d065463b205b8eb99a110c2b78e&token=ed2dba18900100ed&device=4&platform=rrty | license_key=
+  HD SERVER  -> http://193.47.62.50/hls/zuuuQQQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (27-09-2026): 06:00 - 08:00 - International Friendly Games: Canada vs Chile
   TSN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-  GHD SPORTS HD -> http://193.47.62.41/hls/GIIIA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS HD -> http://193.47.62.41/hls/OUUUQQQQQQQAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  TSN SPORTS HD -> https://hey.futbol-tv.online/can/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
+  FOX SCORE HD -> https://chatgpt.hereisman.net/playlist/57192/load-playlist|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://gooz.aapmains.net/new-stream-embed/57192?ad=111 | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/da86ca09-ea22-4755-94cb-47bd4c5193c1.m3u8 | license_key=
 
 Event (27-09-2026): 08:00 - 10:00 - International Friendly Games: Mexico vs Colombia
   GHD SPORTS HD -> http://193.47.62.42/hls/AMMMAAAAAAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (26-09-2026): 19:30 - 21:30 - Women's Super League: Charlton vs Man City
+Event (27-09-2026): 19:00 - 21:00 - Women's Super League: Man Utd vs West Ham
   PARAMOUNT+ FHD -> https://otte.cache.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/or1eskbway/out/v1/2be28a72c21d4185989b20d71f785ea8/b7eed812-19fc-403d-91dd-51023c017d65-cenc.mpd?aws_sessionId=1649c150-9873-46de-936e-4fd67ea3d296 | license_key=8eba8ec80750c981f4fad8f64c92456e:ce74d72ef4435bf80effaf8a63291b54
   GHD SPORTS HD -> http://193.47.62.50/hls/abbbQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (26-09-2026): 23:00 - 01:00 - Women's Super League: London City vs Brighton
+Event (27-09-2026): 20:00 - 22:00 - Women's Super League: Birmingham vs Crystal Palace
   SKY SPORTS EPL -> https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 | license_key=
   GHD SPORTS HD -> http://193.47.62.55/hls/NTTTAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
@@ -240,6 +271,18 @@ Event (10-10-2026): 23:30 - 01:30 - Bundesliga: Leipzig vs Frankfurt
   GHD SPORTS HD -> http://193.47.62.55/hls/YPPPQQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   SKY FOOTBALL HD -> https://edgestream2.pro/hls/ueyeztrazb4.m3u8|origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://streame.center | license_key=
   CANAL SPORTS HD -> https://chatgpt.hereisman.net/playlist/56670/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
+
+Event (27-09-2026): 20:00 - 22:00 - Women's Super League: Liverpool vs Everton
+  GHD SPORTS HD -> http://193.47.62.59/hls/FRRRAAAAAQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+
+Event (27-09-2026): 20:00 - 22:00 - Women's Super League: Tottenham vs Aston Villa
+  SKY SPORTS NZ -> https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8 | license_key=
+  GHD SPORTS HD -> http://193.47.62.41/hls/RRRA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+
+Event (27-09-2026): 22:30 - 00:30 - Women's Super League: Chelsea vs Arsenal
+  CBS SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+  BBC Two FHD -> https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8 | license_key=
+  GHD SPORTS HD -> http://193.47.62.41/hls/OWWWAAAAAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (26-09-2026): 16:00 - 18:00 - ASEAN Cup: Pakistan vs Thailand
   TAPMAD ENG AQ -> https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/ | license_key=
