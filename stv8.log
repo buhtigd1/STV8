@@ -1,6 +1,6 @@
-Generated on: 2026-09-28 11:08:25.573310
-Total events: 57
-Total streams: 252
+Generated on: 2026-09-28 13:01:39.694946
+Total events: 58
+Total streams: 254
 
 Event (30-09-2026): 15:30 - 00:30 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kokgbqrt6n/out/v1/7d6a6227d1d44ce993e20e600e2bebd4/cenc.mpd | license_key=e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95
@@ -125,10 +125,6 @@ Event (28-09-2026): 07:00 - 12:00 - Asian Games: PAK vs HK
   TAPMAD ENG- AQ -> https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8|referer=https://tapmad.com | license_key=
   PTV SPORTS HD -> https://live.incableinternet.com/ptv-sports/720p.m3u8 | license_key=
 
-Event (28-09-2026): 11:30 - 17:00 - Asian Games: IND vs AFG
-  Willow Cricbuzz - AQ -> https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/d1dccovpea/out/v1/cb8f23c369044504b7a2a046ff2f92b8/cenc.mpd|drmScheme=clearkey&drmLicense= | license_key=ede7c67754635ee32dfe0cb550358ee2:7e488d33ce781c3a8972b07adc774624
-  Willow Cricbuzz - HD -> http://193.47.62.50/hls/frrr.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-
 Event (29-09-2026): 07:00 - 12:00 - Asian Games: SL vs NEP
   Willow Cricbuzz AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/idczxkgq7l/out/v1/169a00dcc2444e119f18bb2638b0e368/cenc.mpd | license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
   SonyLiv ENG AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=98f61979901c2ef0321334576db96967-1790379301165 | license_key=
@@ -193,14 +189,12 @@ Event (11-10-2026): 01:45 - 03:45 - Ligue 1: Brest vs Angers
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8 | license_key=
 
 Event (28-09-2026): 17:25 - 19:25 - International Friendly Games: Japan vs Venezuela
-  GHD SPORTS HD -> https://hey.futbol-tv.online/usa/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://www.futbol-x.top | license_key=
-  GHD SPORTS SD -> https://instreams.live/live/tv401905203/index.m3u8?st=7T7TegK0VP2v7BQZO4a0RQ&e=1790463671|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv401905203 | license_key=
-  FAST SERVER HD -> https://play.aarray.cn/rrty/sd-1-4650024_gqzm.m3u8?auth_key=1790458802-0-0-05c09d065463b205b8eb99a110c2b78e&token=ed2dba18900100ed&device=4&platform=rrty | license_key=
-  HD SERVER  -> http://193.47.62.50/hls/zuuuQQQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS HD -> http://193.47.62.55/hls/NUUUQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/225e3b8e-74db-4671-82f6-bba870e312a9.m3u8 | license_key=
 
 Event (28-09-2026): 18:00 - 20:00 - International Friendly Games: South Korea vs Uruguay
-  GHD SPORTS HD -> http://193.47.62.41/hls/RAAAAF.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  GHD SPORTS SD -> https://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_540p.m3u8?auth_key=1790523255-0-0-84c9a12a57971e20c4e36fb39b7abfe1 | license_key=
+  GHD SPORTS HD -> http://193.47.62.55/hls/NUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  GHD SPORTS SD -> https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8 | license_key=
 
 Event (28-09-2026): 19:00 - 21:00 - International Friendly Games: Tajikistan vs Palestine
   GHD SPORTS HD -> http://193.47.62.44/hls/ZFFFA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
@@ -277,6 +271,16 @@ Event (01-10-2026): 02:00 - 04:00 - UEFA Women's Champions League: Lyonnes vs Ch
   SKY SPORTS EPL  -> https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 | license_key=
   GHD SPORTS HD -> http://193.47.62.50/hls/K999A.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   FANCODE HD -> https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=true&token=40242ec08c3ddf3e9d72332677af1e6a57324944&x-sign=0461d530d21749cdca4d9945ddef47dc&x-time=1790523000|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&referer=https://iframe.rumsport8.live/ | license_key=
+
+Event (28-09-2026): 16:00 - 18:19 - ASEAN Cup: Bangladesh vs Singapore
+  GHD SPORTS AQ -> https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd | license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
+  GHD SPORTS HD -> https://live2.zundrixmediapipeline.com/live/channel15.m3u8|referer=https://soco.domainkqt.cc/ | license_key=
+  GHD SPORTS SD -> http://193.47.62.55/hls/NUUUX.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  ISCREEN ENG HD -> https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd | license_key=
+  Tapmad ENG - AQ -> https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8|referer=https://tapmad.com/ | license_key=
+
+Event (28-09-2026): 19:30 - 21:40 - ASEAN Cup: Malaysia vs Indonesia
+  GHD SPORTS HD -> http://193.47.62.55/hls/NUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (28-09-2026): 23:00 - 01:00 - UEFA Nations League: Armenia vs Montenegro
   BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
