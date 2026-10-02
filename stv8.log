@@ -1,6 +1,6 @@
-Generated on: 2026-10-02 04:16:50.134722
-Total events: 44
-Total streams: 221
+Generated on: 2026-10-02 11:57:34.278343
+Total events: 49
+Total streams: 226
 
 Event (03-10-2026): 15:30 - 23:55 - One Day International: IND vs WI
   Willow Cricbuzz - AQ -> https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4zc7ykfs/out/v1/647383d571d44fb680e8e826f604db2b/cenc.mpd | license_key=5ce45f6a1c4ff0cca79f1fcb2f0161d5:d6dba1c59cc9c34a53deb95d47a6ae99
@@ -106,12 +106,12 @@ Event (11-10-2026): 02:00 - 04:00 - LaLiga: Real Madrid vs Villarreal
   ESPN SPORTS HD -> https://chatgpt.hereisman.net/playlist/56802/load-playlist?|Referer=https://gooz.aapmains.net | license_key=
   EAPN SPORTS SD -> https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online | license_key=
 
-Event (01-10-2026): 07:00 - 12:35 - Asian Games: PAK vs BAN
+Event (03-10-2026): 07:00 - 12:45 - Asian Games: BAN vs SL
   Willow Cricbuzz - AQ -> https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd | license_key=36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72
   Willow Cricbuzz - ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd | license_key=36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72
   Willow Cricbuzz - HD -> http://193.47.62.41/hls/GGGG.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (01-10-2026): 11:30 - 16:40 - Asian Games: IND vs SL
+Event (03-10-2026): 11:30 - 18:30 - Asian Games: PAK vs IND
   Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd | license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
   Willow Cricbuzz - HD -> http://193.47.62.41/hls/GGGG.m3u8|referer=http://www.fawanews.sc/ | license_key=
   Sony Sports TEN -> https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=
@@ -223,10 +223,10 @@ Event (02-10-2026): 02:00 - 04:00 - UEFA Women's Champions League: PSG vs OH Leu
   GHD SPORTS HD -> http://193.47.62.55/hls/AIIIAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   CBS NETWORK HD -> https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8 | license_key=
 
-Event (01-10-2026): 19:30 - 21:30 - ASEAN Cup: Malaysia vs Singapore
+Event (02-10-2026): 16:00 - 18:00 - ASEAN Cup: Vietnam vs Pakistan
   GHD SPORTS SD -> http://193.47.62.59/hls/iiiiaAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (01-10-2026): 19:30 - 21:30 - ASEAN Cup: Indonesia vs Bangladesh
+Event (02-10-2026): 16:00 - 18:00 - ASEAN Cup: Thailand vs Philippines
   TAPMAD ENG - AQ -> https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/ | license_key=
   FAST SERVER HD -> https://live2.zundrixmediapipeline.com/live/channel5.m3u8|referer=https://soco.domainkqt.cc/ | license_key=
   FAST SERVER BD -> https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd | license_key=
@@ -302,6 +302,21 @@ Event (01-10-2026): 23:00 - 01:00 - Africa Cup of Nations Qual.: Guinea vs Kenya
   BeIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd | license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
   BeIN SPORTS HD -> https://live2.dyrur1.com/live/74372502_75f10151b0cff6bb8b0780c5b0c923bb_1080p.m3u8?auth_key=1790884498-0-0-6a1677d07a0710afdf79d33c4e6661c4 | license_key=
   GHD SPORTS HD -> http://193.47.62.44/hls/QQQQA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+
+Event (02-10-2026): 19:00 - 21:00 - International Friendly Games: DR Congo vs Uganda
+   -> s | license_key=
+
+Event (02-10-2026): 18:00 - 20:00 - International Friendly Games: South Korea vs Venezuela
+   -> db | license_key=
+
+Event (02-10-2026): 22:00 - 00:00 - International Friendly Games: Mauritius vs Sri Lanka
+   -> zb | license_key=
+
+Event (02-10-2026): 18:35 - 20:35 - International Friendly Games: China vs Palestine
+   -> vz | license_key=
+
+Event (03-10-2026): 07:00 - 09:00 - International Friendly Games: Colombia vs Paraguay
+   -> bs | license_key=
 
 Event (10-10-2026): 23:00 - 01:00 - Serie A: Inter vs Parma
   BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
