@@ -1,6 +1,6 @@
-Generated on: 2026-10-09 04:46:39.820467
+Generated on: 2026-10-09 12:38:57.844598
 Total events: 45
-Total streams: 175
+Total streams: 181
 
 Event (09-10-2026): 20:30 - 02:30 - WEST INDIES TOUR OF INDIA: IND vs WI
   Willow Cricbuzz - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd | license_key=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe
@@ -20,19 +20,16 @@ Event (09-10-2026): 22:00 - 04:00 - T20 International: PAK vs SL
   FANCODE - IN -> https://dai-fancode.pages.dev/mumbai/4249657_english_hls_564ff93f9840854_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
 
 Event (09-10-2026): 13:00 - 22:00 - Test Series: AFG vs BAN
-  Willow Cricbuzz - AQ -> https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/45rdnte6d6/out/v1/78a278d9350e4c57bc64f1142d08db41/cenc.mpd | license_key=07dc2346823644f4fc76855ac0b28934:f390daae70c6db7787471e7790ef55e3
-  SonyLiv HIN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982 | license_key=
-  SonyLiv ENG - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982 | license_key=
-  SonyLiv TAM - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1809/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982 | license_key=
-  SonyLiv TEL - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1809/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982 | license_key=
-  SonyLiv KAN - AQ -> https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1809/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bc0ab3836628ba1c7fa28eae27b60165-1789702206982 | license_key=
-  PTV SPORTS HD -> https://baila-lentoo.pages.dev/nwp/809398.m3u8 | license_key=
+  Willow Cricbuzz - AQ -> https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd | license_key=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181
+  Willow Cricbuzz ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd | license_key=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181
+  Willow Cricbuzz HD -> http://193.47.62.59/hls/ZZZZAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/ | license_key=
+  T SPORTS HD -> http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8 | license_key=
+  FANCODE (IND) -> https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b68270_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
 
 Event (09-10-2026): 10:50 - 18:35 - ICC Women's Championship: AUS-W vs BAN-W
-  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd | license_key=a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486
-  FANCODE ENG FHD -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd | license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-  SKY SPORTS+ HD -> http://193.47.62.41/hls/fafafaAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
-  FANCODE ENG - (IN IP) -> https://dai-fancode.pages.dev/mumbai/4249780_english_hls_fe7666272366793_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
+  Willow Cricbuzz - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd | license_key=d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e
+  Willow Cricbuzz - ALT -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd | license_key=d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e
+  Willow sports - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd | license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 Event (09-10-2026): 14:30 - 23:19 - ICC World Test Championship: SA vs AUS
 
@@ -53,14 +50,32 @@ Event (09-10-2026): 21:55 - 23:55 - Saudi Pro League: Al-Fateh vs Al-Ahli
 Event (10-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Nassr vs Diriyah
   Thmanyah - SD -> http://193.47.62.41/hls/TATATAAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (09-10-2026): 05:30 - 07:30 - Campeonato Brasileiro SÃ©rie A: Santos vs Flamengo
-  Premier Sports BR -> http://193.47.62.41/hls/KYYYQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-
 Event (10-10-2026): 02:00 - 04:00 - LaLiga: MÃ¡laga vs Espanyol
   GHD SPORTS HD -> http://193.47.62.50/hls/GNNN.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
-Event (08-10-2026): 13:00 - 16:10 - ICC Men's T20 World Cup Qualifier: MAShxjdjjsnhehedx vs HKksjnsbdjdixjsjsbhejdjsjjsjdhxgdhdh
-  Willow Cricbuzz - AQ -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791468965~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=3ff223162a2761e1c8d939692393341cab24c8bb48f206d2c01b4591d37f4dd0/manifest.mpd?vcfilter=e5c06a84-f77d-4b16-93c6-2aa500716bc4|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+Event (09-10-2026): 13:00 - 16:10 - ICC Men's T20 World Cup Qualifier: MAS vs SDA
+  ICC TV -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791554707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=ba5c5a02091bf498ab2bf813facf42e50f8f3f662ae834560c6d7e179ac12396/manifest.mpd?vcfilter=23fba0fd-2e9e-4560-8988-5aec0b513a36|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+
+Event (09-10-2026): 13:00 - 16:10 - ICC Men's T20 World Cup Qualifier: CHN vs HK
+  ICC TV -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791553533~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=5cbeac42f42ce9231abf47eccb19cf32a9ca4f245bf2755aed63c41932c17cd8/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+
+Event (09-10-2026): 13:00 - 16:10 - ICC Men's T20 World Cup Qualifier: MDV vs SIN
+  ICC TV -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791554791~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=6ad453d31f4786673164a477d7052b3810a9828b99bb096fa0683da49b3d03fc/manifest.mpd?vcfilter=c098c554-a22a-495a-8573-135b7a37adfe|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+
+Event (09-10-2026): 12:30 - 15:40 - ICC CWC League 2: OMA vs CAN
+  ICC TV -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791551043~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a6c551d5-1ce2-4d8f-89dd-0a64b26fdd7d~data=hdntl~hmac=bc44e6f6efe807e0c6c5e565afa8a4230f884513de1e8f417929f71685e1858d/manifest.mpd | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+
+Event (09-10-2026): 22:00 - 01:10 - ICC CWC League 2: NAM vs UAE
+  PRIME VIDEO AQ -> https://ABMXTS6AAAAAAAAMKXB6KHGNM2AJK.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/cfydpvdsta/out/v1/7910d7d4114049488aaaa4416deccfd4/cenc.mpd | license_key=e647180c0a0a36d6a4a7528c2523bca1:960aa4eb16e6067b55a01d16062aaa70
+  Willow Cricbuzz AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd | license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
+  Willow Sports AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd | license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+  Bangali Commentary  -> https://pastebin.com/raw/1hDpP37s?e=.m3u8 | license_key=
+  Sky Sports NZ HD -> https://tmaxapp.site/skynz2.m3u8 | license_key=
+  Willow Cricket HD -> https://tmaxapp.site/willoweng.m3u8 | license_key=
+  Star Sports Hindi - IND -> https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|cookie=hdntl=exp=1782421648~acl=%2f*~id=6932e35f303177c07575d436fe80b4b1~data=hdntl~hmac=1c05d207044e71f0e68a9f9790140f9e3fb06885eaaf3b3e3dbf32fac8e970fb&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com | license_key=
+  Star Sports English - IND -> https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1782421648~acl=%2f*~id=6932e35f303177c07575d436fe80b4b1~data=hdntl~hmac=1c05d207044e71f0e68a9f9790140f9e3fb06885eaaf3b3e3dbf32fac8e970fb&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com | license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
+  Star Sports Tamil - IND -> https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|cookie=hdntl=exp=1782421648~acl=%2f*~id=6932e35f303177c07575d436fe80b4b1~data=hdntl~hmac=1c05d207044e71f0e68a9f9790140f9e3fb06885eaaf3b3e3dbf32fac8e970fb&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com | license_key=
+  Star Sports Telugu - IND -> https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|cookie=hdntl=exp=1782421648~acl=%2f*~id=6932e35f303177c07575d436fe80b4b1~data=hdntl~hmac=1c05d207044e71f0e68a9f9790140f9e3fb06885eaaf3b3e3dbf32fac8e970fb&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com | license_key=
 
 Event (10-10-2026): 02:00 - 04:00 - Championship: West Ham vs QPR
   BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -79,20 +94,11 @@ Event (10-10-2026): 00:45 - 02:45 - Liga Portugal Betclic: Moreirense vs Gil Vic
   GHD SPORTS HD -> http://193.47.62.59/hls/DLLLQ.m3u8|Referer=http://www.fawanews.sc/ | license_key=
   Sport Digital FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 
-Event (09-10-2026): 06:00 - 08:00 - Campeonato Brasileiro SÃ©rie A: Athletico vs AtlÃ©tico-MG
-   -> http://193.47.62.41/hls/KYYYQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-
 Event (10-10-2026): 01:30 - 03:30 - Bundesliga: Dortmund vs Bremen
    -> hc | license_key=
 
 Event (10-10-2026): 02:15 - 04:15 - Liga Portugal Betclic: Braga vs Sporting
    -> vc | license_key=
-
-Event (09-10-2026): 07:30 - 09:30 - Campeonato Brasileiro SÃ©rie A: Fluminense vs Coritiba
-   -> http://193.47.62.41/hls/KYYYQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-
-Event (09-10-2026): 07:30 - 09:30 - Campeonato Brasileiro SÃ©rie A: Palmeiras vs Bahia
-   -> http://193.47.62.59/hls/KIKIKIQQQQQA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
 Event (10-10-2026): 18:30 - 20:30 - Premier League: Arsenal vs Leeds
   FUBO SPORTS FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ovcmulril/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd | license_key=5667d6e86c780df274b842525af51b71:6a3152c6abd14ce16e1584af2ac69983
