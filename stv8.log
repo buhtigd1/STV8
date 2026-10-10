@@ -1,8 +1,8 @@
-Generated on: 2026-10-09 22:19:22.496595
-Total events: 45
-Total streams: 177
+Generated on: 2026-10-10 04:32:13.616477
+Total events: 47
+Total streams: 185
 
-Event (09-10-2026): 20:30 - 02:30 - WEST INDIES TOUR OF INDIA: IND vs WI
+Event (11-10-2026): 20:30 - 04:00 - WEST INDIES TOUR OF INDIA: IND vs WI
   WILLOW AD FREE - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wydu3dzs2m/out/v1/5488d585f04143e7afd19ef4a7c46237/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=fad9e48c64d0d1ead45f180925d56199:5918fd6e6e51982bd18b5ee7f3188039
   Willow Cricbuzz - AQ -> https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd | license_key=0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb
   TNT SPORTS - FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -17,7 +17,7 @@ Event (09-10-2026): 20:00 - 04:00 - T20 International: PAK vs SL
   TAPMADE ENG - WW -> https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com | license_key=
   PTV SPORTS HD -> http://193.47.62.44/hls/VTTT.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
-Event (09-10-2026): 13:00 - 22:00 - Test Series: AFG vs BAN
+Event (10-10-2026): 13:00 - 21:25 - Test Series: AFG vs BAN
   Willow Cricbuzz - AQ -> https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd | license_key=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181
   Willow Cricbuzz ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd | license_key=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181
   Willow Cricbuzz HD -> http://193.47.62.59/hls/ZZZZAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/ | license_key=
@@ -29,7 +29,7 @@ Event (09-10-2026): 10:50 - 18:35 - ICC Women's Championship: AUS-W vs BAN-W
   Willow Cricbuzz - ALT -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd | license_key=d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e
   Willow sports - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd | license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
-Event (09-10-2026): 14:30 - 23:19 - ICC World Test Championship: SA vs AUS
+Event (10-10-2026): 14:30 - 22:15 - ICC World Test Championship: SA vs AUS
 
 Event (10-10-2026): 22:00 - 04:00 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL
   WILLOW CRICBUZZ - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd | license_key=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a
@@ -39,17 +39,23 @@ Event (10-10-2026): 22:00 - 04:00 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL
   FANCODE ENG - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
   T Sports HD -> http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8 | license_key=
 
-Event (09-10-2026): 20:50 - 22:50 - Saudi Pro League: Al-Kholood vs Al-Qadsiah
+Event (10-10-2026): 07:00 - 11:00 - Friday Night SmackDown: SmackDown vs SmackDown
+  HD SERVER -> https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
+  HD SERVER  -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
+  HD SERVER  -> https://admin2.formaturamaxi.com.br/wwe.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
+  HD SERVER 2 -> http://193.47.62.50/hls/QIIIAAAAAAQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
+
+Event (10-10-2026): 20:50 - 22:50 - Saudi Pro League: Al-Hazem vs Neom
   FOX DEPORTES FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd | license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
   SporTV BR FHD -> https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
   DAZN Sports HD -> https://netanjahu.hls.st/t/3b36849dcd8c25c3754bc49c0a713d2a/index.m3u8|referer=https://iplayer.is/ | license_key=
   GHD SPORTS HD -> http://193.47.62.41/hls/seeeaaa.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
-Event (09-10-2026): 21:55 - 23:55 - Saudi Pro League: Al-Fateh vs Al-Ahli
+Event (10-10-2026): 21:55 - 23:55 - Saudi Pro League: Al-Ettifaq vs Al-Khaleej
   FOX2 SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd | license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
   GHD SPORTS HD -> http://193.47.62.41/hls/seeeaaaaaqqqqqq.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
-Event (10-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Nassr vs Diriyah
+Event (11-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Hilal vs Al-Ittihad
   FOX DEPORTES - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd | license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
   SporTV BR - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
   GHD SPORTS HD -> http://193.47.62.50/hls/DMMMQQQQQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
@@ -68,6 +74,12 @@ Event (09-10-2026): 13:00 - 19:01 - ICC Men's T20 World Cup Qualifier: MDV vs SI
 
 Event (09-10-2026): 12:30 - 19:19 - ICC CWC League 2: OMA vs CAN
   ICC TV -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791551043~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a6c551d5-1ce2-4d8f-89dd-0a64b26fdd7d~data=hdntl~hmac=bc44e6f6efe807e0c6c5e565afa8a4230f884513de1e8f417929f71685e1858d/manifest.mpd | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+
+Event (11-10-2026): 06:30 - 08:30 - MLS: Inter Miami vs DC United
+  APPLE  TV - FHD -> https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=z246fSzGrEXnBcD2wNj_Fg&e=1790591435|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://ondemand.st/embed/?id=mls/2026-09-27/clb-mia | license_key=
+  APPLE  TV - HD -> http://193.47.62.50/hls/BHBHBHAAAA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
+  APPLE  TV - SD -> https://instreams.pro/live/tv761844/index.m3u8?st=CGrqKsBWKpVm1jbHJmLFiA&e=1790559037|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&referer=https://instream.click/livetv.php?stream=tv761844 | license_key=
+  APPLE TV UHD -> https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=653441 | license_key=
 
 Event (09-10-2026): 22:00 - 01:10 - ICC CWC League 2: NAM vs UAE
   PRIME VIDEO AQ -> https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791587515~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=db4d925ee7e555410b0846c08e6eb127536fc3059f0c698f1cd5c1b73c76ac2c/manifest.mpd?vcfilter=ff264edc-02ad-4a52-9fa8-10801dd5055c|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36 | license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
