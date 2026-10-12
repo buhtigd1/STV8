@@ -67,81 +67,53 @@ https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?
-#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:34 - Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="11-10-2026",13:00 - 21:34 - Test Series: AFG vs BAN - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:40 - Test Series: AFG vs BAN - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="12-10-2026",13:00 - 21:40 - Test Series: AFG vs BAN - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
-#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:34 - Test Series: AFG vs BAN - Willow Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="11-10-2026",13:00 - 21:34 - Test Series: AFG vs BAN - Willow Cricbuzz ALT
+#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:40 - Test Series: AFG vs BAN - Willow Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="12-10-2026",13:00 - 21:40 - Test Series: AFG vs BAN - Willow Cricbuzz ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
-#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:34 - Test Series: AFG vs BAN - T SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="11-10-2026",13:00 - 21:34 - Test Series: AFG vs BAN - T SPORTS HD
+#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:40 - Test Series: AFG vs BAN - T SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="12-10-2026",13:00 - 21:40 - Test Series: AFG vs BAN - T SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:34 - Test Series: AFG vs BAN - T SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="11-10-2026",13:00 - 21:34 - Test Series: AFG vs BAN - T SPORTS SD
+#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:40 - Test Series: AFG vs BAN - T SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="12-10-2026",13:00 - 21:40 - Test Series: AFG vs BAN - T SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://103.151.60.162:2122/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:34 - Test Series: AFG vs BAN - FANCODE (IND)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="11-10-2026",13:00 - 21:34 - Test Series: AFG vs BAN - FANCODE (IND)
+#EXTINF:-1 tvg-id="17" tvg-name="13:00 - 21:40 - Test Series: AFG vs BAN - FANCODE (IND)" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="12-10-2026",13:00 - 21:40 - Test Series: AFG vs BAN - FANCODE (IND)
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:40 - T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="11-10-2026",20:00 - 03:40 - T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ
+#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:20 - T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-10-2026",20:00 - 03:20 - T20 International: PAK vs SL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd
-#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:40 - T20 International: PAK vs SL - WILLOW Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="11-10-2026",20:00 - 03:40 - T20 International: PAK vs SL - WILLOW Cricbuzz ALT
+#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:20 - T20 International: PAK vs SL - WILLOW Cricbuzz ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-10-2026",20:00 - 03:20 - T20 International: PAK vs SL - WILLOW Cricbuzz ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd
-#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:40 - T20 International: PAK vs SL - PTV SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="11-10-2026",20:00 - 03:40 - T20 International: PAK vs SL - PTV SPORTS HD
+#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:20 - T20 International: PAK vs SL - PTV SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-10-2026",20:00 - 03:20 - T20 International: PAK vs SL - PTV SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.incableinternet.com/ptv-sports/720p.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:40 - T20 International: PAK vs SL - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="11-10-2026",20:00 - 03:40 - T20 International: PAK vs SL - TAPMAD ENG - AQ
+#EXTINF:-1 tvg-id="13" tvg-name="20:00 - 03:20 - T20 International: PAK vs SL - TAPMAD ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-10-2026",20:00 - 03:20 - T20 International: PAK vs SL - TAPMAD ENG - AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="11-10-2026",10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-id="21" tvg-name="10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - ALT" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="11-10-2026",10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow Cricbuzz - ALT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
-#EXTINF:-1 tvg-id="21" tvg-name="10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow sports - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="11-10-2026",10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow sports - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="21" tvg-name="10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow sports - SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="11-10-2026",10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - Willow sports - SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG IND" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="11-10-2026",10:50 - 16:15 - ICC Women's Championship: AUS-W vs BAN-W - FANCODE ENG IND
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="1131" tvg-name="18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv HIN AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="11-10-2026",18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv HIN AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -156,31 +128,31 @@ https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive1110/HIN/master.m3u8?h
 #EXTVLCOPT:http-referrer=https%3A%2F%2Fwww.sonyliv.com%2F
 #EXTVLCOPT:http-origin=https%3A%2F%2Fwww.sonyliv.com
 https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791755130~acl=/*~id=08120589705907662629701154845457~hmac=536d869dba3d598fddb7ae3a95ab4046a1c66f434dd724d89b01e987f7444e7c
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="11-10-2026",18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="13-10-2026",18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="11-10-2026",18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="13-10-2026",18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="11-10-2026",18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT
+#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="13-10-2026",18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="11-10-2026",18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="13-10-2026",18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="11-10-2026",18:30 - 04:42 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - T Sports HD
+#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="13-10-2026",18:30 - 04:15 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - T Sports HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
@@ -847,32 +819,3 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/HHHHRAAA.m3u8
-#EXTINF:-1 tvg-id="989" tvg-name="02:30 - 04:30 - Liga Portugal Betclic: Arouca vs Estrela Amadora - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="12-10-2026",02:30 - 04:30 - Liga Portugal Betclic: Arouca vs Estrela Amadora - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/kmmmQ.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Southampton vs Portsmouth - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="11-10-2026",18:00 - 20:00 - Championship: Southampton vs Portsmouth - BEIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Southampton vs Portsmouth - CBS SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="11-10-2026",18:00 - 20:00 - Championship: Southampton vs Portsmouth - CBS SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTVLCOPT:http-origin=https://amazon.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="1005" tvg-name="18:00 - 20:00 - Championship: Southampton vs Portsmouth - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="11-10-2026",18:00 - 20:00 - Championship: Southampton vs Portsmouth - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/V333AAAQA.m3u8
