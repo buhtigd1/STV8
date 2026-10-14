@@ -1,4 +1,4 @@
-Generated on: 2026-10-14 11:17:33.462909
+Generated on: 2026-10-14 16:38:23.251650
 Total events: 25
 Total streams: 146
 
@@ -53,9 +53,9 @@ Event (14-10-2026): 10:50 - 16:00 - BANGLADESH WOMEN TOUR OF AUSTRALIA: AUS-W vs
 Event (18-10-2026): 15:00 - 00:45 - ICC World Test Championship: SA vs AUS
 
 Event (14-10-2026): 18:30 - 03:29 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL
-  WILLOW CRICBUZZ - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd | license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
+  WILLOW CRICBUZZ - AQ -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd | license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
+  WILLOW CRICBUZZ - ALT -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd | license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
   STARZPLAY Live - AQ -> https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd? | license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-  WILLOW CRICBUZZ - ALT -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd | license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
   WILLOW SPORTS - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd | license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
   FANCODE ENG - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
   FANCODE (IND) -> https://dai-fancode.pages.dev/mumbai/4249217_hindi_hls_1480bdd9cf91170_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/ | license_key=
