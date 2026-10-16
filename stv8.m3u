@@ -267,37 +267,37 @@ https://live.incableinternet.com/ptv-sports/720p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - STARZPLAY Live - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE ENG - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE ENG - AQ
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE ENG - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE ENG - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - WILLOW CRICBUZZ - ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd
-#EXTINF:-1 tvg-id="42" tvg-name="18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE (IND)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",18:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE (IND)
+#EXTINF:-1 tvg-id="42" tvg-name="22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE (IND)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZeuyJWISeEmbhmenzrcpMLz1Ws0AOc2CAlm4QodO7A&s=10" group-title="16-10-2026",22:30 - 02:25 - WORLD CHAMPIONSHIP OF LEGENDS: WCL vs WCL - FANCODE (IND)
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1
@@ -1304,13 +1304,12 @@ http://193.47.62.50/hls/CYYYYQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Deportivo vs Levante - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="17-10-2026",02:00 - 04:00 - LaLiga: Deportivo vs Levante - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/BFFFAAAAAAQ.m3u8
+#EXTINF:-1 tvg-id="768" tvg-name="02:00 - 04:00 - LaLiga: Deportivo vs Levante - BeIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="17-10-2026",02:00 - 04:00 - LaLiga: Deportivo vs Levante - BeIN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-id="777" tvg-name="22:30 - 00:30 - Premier League: Forest vs Arsenal - FUBO SPORTS - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="18-10-2026",22:30 - 00:30 - Premier League: Forest vs Arsenal - FUBO SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1687,11 +1686,18 @@ https://edgestream5.pro/hls/dza5z8f69.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/83d79ac6d334e721ebf6a278a9dda85d/index.m3u8?
-#EXTINF:-1 tvg-id="975" tvg-name="02:00 - 04:00 - Championship: Burnley vs Wolves - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="17-10-2026",02:00 - 04:00 - Championship: Burnley vs Wolves - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.190/hls/gpppaa.m3u8
+#EXTINF:-1 tvg-id="975" tvg-name="02:00 - 04:00 - Championship: Burnley vs Wolves - BeIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="17-10-2026",02:00 - 04:00 - Championship: Burnley vs Wolves - BeIN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="975" tvg-name="02:00 - 04:00 - Championship: Burnley vs Wolves - CBS GOLAZO FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="17-10-2026",02:00 - 04:00 - Championship: Burnley vs Wolves - CBS GOLAZO FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="1006" tvg-name="18:30 - 20:30 - Championship: Millwall vs Lincoln - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="17-10-2026",18:30 - 20:30 - Championship: Millwall vs Lincoln - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
