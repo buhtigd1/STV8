@@ -1,12 +1,6 @@
-Generated on: 2026-10-20 03:36:26.699903
-Total events: 37
-Total streams: 212
-
-Event (19-10-2026): 18:30 - 02:28 - ODI Tri-Series in United Arab Emirates: AFG vs ZIM
-  Willow Cricbuzz - AQ -> https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd | license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
-  Willow Cricbuzz - ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd | license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
-  T SPORTS HD -> http://103.151.60.162:2122/play/a030/index.m3u8 | license_key=
-  FANCODE ENG (IND) -> https://dai-fancode.pages.dev/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F | license_key=
+Generated on: 2026-10-20 10:58:30.305767
+Total events: 33
+Total streams: 193
 
 Event (24-10-2026): 18:30 - 20:30 - Premier League: Aston Villa vs Man City
   FUBO SPORTS FHD -> https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747 | license_key=5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e
@@ -41,6 +35,8 @@ Event (27-10-2026): 15:00 - 02:00 - PAKISTAN ODI TRI-SERIES: PAK vs SL
   WILLOW - HD -> https://baila-lentoo.pages.dev/all-sp/809386.m3u8 | license_key=
   WILLOW SD -> http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8 | license_key=
 
+Event (20-10-2026): 15:00 - 00:45 - ICC World Test Championship: SA vs AUS
+
 Event (23-10-2026): 12:30 - 19:00 - Formula1: FORMULA 1 vs FORMULA 1
   SPORTS TV - FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd | license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
   FORMULA TV FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 | license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
@@ -59,31 +55,19 @@ Event (21-10-2026): 07:00 - 11:34 - WWE NXT: NXT vs NXT
   GHD SPORTS - HD -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8 | license_key=
   GHD SPORTS - HD -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
 
-Event (20-10-2026): 07:00 - 11:40 - WWE Monday Night RAW: RAW vs RAW
-  RAW NETWORK 247 -> https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
-  GHD SPORTS HD -> http://193.47.62.59/hls/B111AAAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-  RAW NETWORK HD -> https://admin2.formaturamaxi.com.br/wwe.m3u8 | license_key=
-  HD QUALITY 1 -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8 | license_key=
-  HD QUALITY 2 -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8 | license_key=
-  HD QUALITY 3 -> https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8 | license_key=
+Event (20-10-2026): 22:00 - 00:00 - Saudi Pro League: Diriyah vs Al-Riyadh
+  GHD SPORTS HD -> http://193.47.62.44/hls/FYYY.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
-Event (19-10-2026): 22:05 - 00:05 - Saudi Pro League: Al-Fayha vs Al-Ahli
+Event (20-10-2026): 22:10 - 00:10 - Saudi Pro League: Al-Taawoun vs Al-Qadsiah
   FOX DEPORTES FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd | license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
   GHD SPORTS HD -> http://193.47.62.59/hls/ZNNNAAAAQQ.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
   Sport tv HD -> https://streamtp99a.sbs/global1.php?stream=sportv2 | license_key=
   FAST SERVER HD -> https://pull.streamviewk7x.click/livesp/sd-6MwarmCjerQ4fT8pDx_autosp.m3u8?txSecret=ff2d8a6e4ccc863bca711663f1acce88&txTime=6AD7831C | license_key=
 
-Event (20-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Hilal vs Al-Hazem
+Event (21-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Ettifaq vs Al-Ittihad
   GHD SPORTS HD -> http://193.47.62.50/hls/6HHHAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
   Thmanyah HD -> https://live.vivo155.com/live/sd-1-4599626.m3u8?txSecret=c80a64a119495095f5b05cf41a00299d&txTime=6AD66EF3|Referer=https://player.online878.com/ | license_key=
   THMANYAH SD -> https://baila-lentoo.pages.dev/thm-arb/1264554.m3u8 | license_key=
-
-Event (20-10-2026): 02:00 - 04:00 - Premier League: Tottenham vs Coventry
-  SKY SPORTS EPL - FHD -> https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0 | license_key=
-  USA SPORTS HD -> https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fstreame.center | license_key=
-  ESPN SPORTS HD -> https://streamtp99a.sbs/global1.php?stream=espn | license_key=
-  FOX ONE HD -> https://streamtp99a.sbs/global1.php?stream=foxone2 | license_key=
-  GHD SPORTS HD -> http://193.47.62.59/hls/BBBB.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
 
 Event (24-10-2026): 02:00 - 04:00 - Premier League: Ipswich vs Forest
   FUBO SPORTS FHD -> https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7 | license_key=480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d
@@ -101,28 +85,6 @@ Event (24-10-2026): 23:30 - 01:30 - Premier League: Chelsea vs Tottenham
   FAST SERVER HD -> https://live.vivo155.com/live/hd-en-1-4558597.m3u8?txSecret=49703922a99761db75cd2292cedffd5f&txTime=6AD4D48D|Referer=https://player.online878.com/ | license_key=
   PEACOCK TV SD -> https://instreams.pro/live3/tv401879263/index.m3u8?st=d8dOJIS8ulX5_M0vtnPW1w&e=1792339214|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&Referer=https%3A%2F%2Fxstream.st%2Flivetv.php%3Fstream%3Dtv401879263 | license_key=
 
-Event (20-10-2026): 02:00 - 04:00 - LaLiga: Getafe vs Rayo Vallecano
-  beIN ENGLISH FHD -> https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd | license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-  FANCODE ENG FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-  Premier Sports - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd | license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-  D SPORTS + FHD -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-  GHD SPORTS HD -> http://193.47.62.50/hls/O555AA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-
-Event (19-10-2026): 23:30 - 01:30 - Serie A: Monza vs Cagliari
-  BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-  FUBO SPORTS FHD -> https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
-  GHD SPORTS HD -> https://www.rtmpcdn.com/live/85ffc4c7-4ad0-4257-a568-74bf0ca78791.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc | license_key=
-  GHD SPORTS SD -> http://193.47.62.41/hls/LFFFAAAAA.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc | license_key=
-  CBS SPORTS HD -> https://edgestream2.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center | license_key=
-
-Event (20-10-2026): 01:45 - 03:45 - Serie A: Parma vs Torino
-  BEIN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-  SPORT1 CZ FHD -> https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd | license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-  GHD SPORTS HD -> http://193.47.62.50/hls/O555.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc | license_key=
-
-Event (20-10-2026): 02:15 - 04:15 - Liga Portugal Betclic: Braga vs Gil Vicente
-  Sport Digital FHD -> http://193.47.62.59/hls/BEEEAAAAAQQQQAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
-
 Event (22-10-2026): 07:00 - 11:30 - AEW Dynamite: AEW vs AEW
   FOX SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd | license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
   TSN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
@@ -133,6 +95,9 @@ Event (23-10-2026): 06:30 - 12:40 - Moto - GP: MotoGP vs MotoGP
   TNT SPORTS - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
   MotoGp Live - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd | license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
   TNT SPORTS HD -> http://193.47.62.50/hls/HHHHRAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
+
+Event (21-10-2026): 01:45 - 03:45 - Championship: Wolves vs Portsmouth
+  GHD SPORTS HD -> http://193.47.62.50/hls/4GGGQQQQ.m3u8|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36&Referer=http%3A%2F%2Fwww.fawanews.sc%2F&Origin=http%3A%2F%2Fwww.fawanews.sc | license_key=
 
 Event (20-10-2026): 20:30 - 02:00 - Twenty20 International Women: IND-W vs ZIM-W
   Willow Cricbuzz - AQ -> https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f
@@ -162,14 +127,22 @@ Event (24-10-2026): 21:00 - 23:00 - Premier League: Coventry vs Fulham
   GHD SPORTS SD -> https://www.rtmpcdn.com/live/3ae06289-de5a-4816-8b3a-63c3620a066f.m3u8 | license_key=
 
 Event (20-10-2026): 15:15 - 21:00 - Twenty20 International Women: AUS-W vs NZ-W
+  WILLOW Cricbuzz - AQ -> https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd | license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+  Willow Cricbuzz ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd | license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
   WILLOW SPORTS - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd | license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-  FANCODE ENG (IN IP) -> https://dai-fancode.pages.dev/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F | license_key=
-  EUROSPORT - AQ -> https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd | license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
+  FANCODE IN IP -> https://dai-fancode.pages.dev/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo%2F9.11.1+%28Linux%3BAndroid+13%29+AndroidXMedia3%2F1.6.1&Referer=https%3A%2F%2Ffancode.com%2F | license_key=
 
 Event (20-10-2026): 15:00 - 00:00 - ODI Tri-series in Pakistan: PAK vs ENG
-  Sony TEN 5 - HD (IN-IP) -> https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001) | license_key=
+  Willow Cricbuzz AQ -> https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd | license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+  Willow Cricbuzz ALT -> https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd | license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+  TAPMAD ENG - AQ -> https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://tapmad.com/ | license_key=
+  SKY CRICKET - AQ -> https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https | license_key=
+  Willow Cricbuzz HD -> https://baila-lentoo.pages.dev/all-sp/809386.m3u8 | license_key=
+  Willow Cricbuzz SD -> http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8 | license_key=
+  SKY CRICKET HD -> http://193.47.62.44/hls/BEEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc | license_key=
+  PTV SPORTS HD -> https://baila-lentoo.pages.dev/all-sp/809398.m3u8 | license_key=
 
-Event (20-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Shabab vs Al Faisaly
+Event (21-10-2026): 01:00 - 03:00 - Saudi Pro League: Al-Nassr vs Neom
   GHD SPORTS - HD -> http://193.47.62.50/hls/6HHHAAA.m3u8|origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36&referer=http://www.fawanews.sc/ | license_key=
   Thmanyah HD -> https://live.vivo155.com/live/sd-1-4599628.m3u8?txSecret=d2fd9eea387c9b08b7fc40785beb994e&txTime=6AD66F27|Referer=https://player.online878.com/ | license_key=
   THMANYAH SD -> https://baila-lentoo.pages.dev/thm-arb/1264555.m3u8 | license_key=
