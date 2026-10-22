@@ -1,6 +1,6 @@
-Generated on: 2026-10-21 22:58:35.193006
+Generated on: 2026-10-22 02:53:14.093059
 Total events: 51
-Total streams: 251
+Total streams: 249
 
 Event (21-10-2026): 18:30 - 00:55 - ODI Tri-Series in United Arab Emirates: AFG vs BAN
   Willow Cricbuzz - AQ -> https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd | license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
@@ -134,8 +134,6 @@ Event (21-10-2026): 15:30 - 18:40 - ICC Men's T20 World Cup Qualifier: LES vs UG
 Event (22-10-2026): 07:00 - 11:30 - AEW Dynamite: AEW vs AEW
   FOX SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd | license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
   TSN SPORTS FHD -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-  GHD SPORTS HD -> https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net | license_key=
-  GHD SPORTS SD -> http://193.47.62.44/hls/IFFFA.m3u8|Referer=http://www.fawanews.sc/ | license_key=
 
 Event (23-10-2026): 06:30 - 12:40 - Moto - GP: MotoGP vs MotoGP
   TNT SPORTS - AQ -> https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 | license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
