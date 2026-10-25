@@ -1,7 +1,9 @@
 import json
 import datetime
 import requests
-from urllib.parse import unquote_plus
+import unicodedata
+
+from urllib.parse import unquote_plus, urlparse
 from zoneinfo import ZoneInfo
 
 URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/refs/heads/main/provider_2/live_events.json"
@@ -10,11 +12,71 @@ URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/refs/heads/ma
 def fetch_json(url):
     r = requests.get(url, timeout=30)
     r.raise_for_status()
+
+    # paksa UTF-8
+    r.encoding = "utf-8"
+
     return r.json()
+
+
+def fix_text(text):
+    """
+    Perbaiki teks mojibake:
+    KÃ¶ln -> Köln
+    AtlÃ©tico -> Atlético
+    SÃ©rie -> Série
+    """
+
+    if not isinstance(text, str):
+        return text
+
+    try:
+        if any(
+            bad in text
+            for bad in (
+                "Ã",
+                "Â",
+                "â€",
+                "â€™",
+                "â€œ",
+                "â€\x9d",
+                "â€“",
+                "â€”",
+            )
+        ):
+            text = text.encode("latin1").decode("utf-8")
+    except Exception:
+        pass
+
+    return unicodedata.normalize("NFC", text)
+
+
+def fix_json_text(obj):
+    """
+    Rekursif memperbaiki seluruh string dalam JSON
+    """
+
+    if isinstance(obj, dict):
+        return {
+            k: fix_json_text(v)
+            for k, v in obj.items()
+        }
+
+    if isinstance(obj, list):
+        return [
+            fix_json_text(item)
+            for item in obj
+        ]
+
+    if isinstance(obj, str):
+        return fix_text(obj)
+
+    return obj
 
 
 def format_event_time(start_str, end_str):
     try:
+
         start = datetime.datetime.strptime(
             start_str,
             "%Y/%m/%d %H:%M:%S %z"
@@ -37,6 +99,7 @@ def format_event_time(start_str, end_str):
 
 def get_event_date(start_str):
     try:
+
         dt = datetime.datetime.strptime(
             start_str,
             "%Y/%m/%d %H:%M:%S %z"
@@ -51,13 +114,14 @@ def get_event_date(start_str):
 
 
 def sort_events(events):
+
     def get_sort_key(event):
+
         try:
-            start_time = event.get(
-                "eventInfo", {}
-            ).get(
-                "startTime",
-                ""
+
+            start_time = (
+                event.get("eventInfo", {})
+                .get("startTime", "")
             )
 
             return datetime.datetime.strptime(
@@ -77,12 +141,13 @@ def sort_events(events):
 
 
 def write_headers(f, headers):
+
     headers = headers.replace(
-        "&amp;amp;amp;",
-        "&amp;amp;"
+        "&amp;amp;amp;amp;",
+        "&amp;amp;amp;"
     )
 
-    for header in headers.split("&amp;amp;"):
+    for header in headers.split("&amp;amp;amp;"):
 
         if "=" not in header:
             continue
@@ -96,16 +161,19 @@ def write_headers(f, headers):
         value = unquote_plus(value)
 
         if key == "user-agent":
+
             f.write(
                 f"#EXTVLCOPT:http-user-agent={value}\n"
             )
 
         elif key == "referer":
+
             f.write(
                 f"#EXTVLCOPT:http-referrer={value}\n"
             )
 
         elif key == "origin":
+
             f.write(
                 f"#EXTVLCOPT:http-origin={value}\n"
             )
@@ -122,9 +190,7 @@ def create_m3u(
         encoding="utf-8"
     ) as f:
 
-        f.write(
-            '#EXTM3U url-tvg=""\n\n'
-        )
+        f.write('#EXTM3U url-tvg=""\n\n')
 
         for event in data:
 
@@ -173,14 +239,18 @@ def create_m3u(
             )
 
             if teamA and teamB:
+
                 match_label = (
                     f"{event_name}: "
                     f"{teamA} vs {teamB}"
                 )
+
             else:
+
                 match_label = event_name
 
             if time_label:
+
                 match_label = (
                     f"{time_label} - "
                     f"{match_label}"
@@ -224,20 +294,31 @@ def create_m3u(
                 headers = ""
 
                 if "|" in raw_link:
+
                     url, headers = raw_link.split(
                         "|",
                         1
                     )
 
-                url = url.replace(
-                    "&amp;amp;amp;",
-                    "&amp;amp;"
+                url = (
+                    url.replace(
+                        "&amp;amp;amp;amp;",
+                        "&amp;amp;amp;"
+                    )
+                    .replace("&amp;", "&")
                 )
 
-                url_lower = url.lower()
+                path = urlparse(
+                    url
+                ).path.lower()
 
-                is_mpd = ".mpd" in url_lower
-                is_hls = ".m3u8" in url_lower
+                is_mpd = path.endswith(
+                    ".mpd"
+                )
+
+                is_hls = path.endswith(
+                    ".m3u8"
+                )
 
                 if is_mpd:
 
@@ -295,7 +376,10 @@ def main():
 
         data = fetch_json(URL)
 
-        # Urutkan berdasarkan waktu pertandingan
+        # perbaiki seluruh teks dalam JSON
+        data = fix_json_text(data)
+
+        # urutkan berdasarkan waktu pertandingan
         data = sort_events(data)
 
         create_m3u(
