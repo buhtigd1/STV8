@@ -45,9 +45,9 @@ def get_event_date(start_str):
 
 
 def write_headers(f, headers):
-    headers = headers.replace("&amp;", "&")
+    headers = headers.replace("&amp;amp;", "&amp;")
 
-    for header in headers.split("&"):
+    for header in headers.split("&amp;"):
 
         if "=" not in header:
             continue
@@ -77,7 +77,8 @@ def create_m3u(data, filename="stv8.m3u"):
 
     with open(filename, "w", encoding="utf-8") as f:
 
-        f.write("#EXTM3U\n")
+        # Header M3U + 1 baris kosong
+        f.write("#EXTM3U\n\n")
 
         for event in data:
 
@@ -161,7 +162,7 @@ def create_m3u(data, filename="stv8.m3u"):
                         1
                     )
 
-                url = url.replace("&amp;", "&")
+                url = url.replace("&amp;amp;", "&amp;")
 
                 is_mpd = ".mpd" in url.lower()
                 is_hls = ".m3u8" in url.lower()
