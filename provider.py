@@ -77,8 +77,8 @@ def create_m3u(data, filename="stv8.m3u"):
 
     with open(filename, "w", encoding="utf-8") as f:
 
-        # Header M3U + 1 baris kosong
-        f.write("#EXTM3U\n\n")
+        f.write("#EXTM3U\n")
+        f.write("\n")    
 
         for event in data:
 
