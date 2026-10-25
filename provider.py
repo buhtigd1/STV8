@@ -77,8 +77,8 @@ def create_m3u(data, filename="stv8.m3u"):
 
     with open(filename, "w", encoding="utf-8") as f:
 
-        f.write('#EXTM3U url-tvg=""\n')
-        f.write("\n")    
+        # Header playlist
+        f.write('#EXTM3U url-tvg=""\n\n')
 
         for event in data:
 
@@ -103,8 +103,6 @@ def create_m3u(data, filename="stv8.m3u"):
             )
 
             group_date = get_event_date(start_time)
-
-            tvg_id = str(event.get("id", ""))
 
             if teamA and teamB:
                 match_label = (
@@ -140,17 +138,15 @@ def create_m3u(data, filename="stv8.m3u"):
                     ""
                 )
 
-                tvg_name = (
+                channel_name = (
                     f"{match_label} - {title}"
                 )
 
                 f.write(
                     f'#EXTINF:-1 '
-                    f'tvg-id="{tvg_id}" '
-                    f'tvg-name="{tvg_name}" '
                     f'tvg-logo="{logo}" '
                     f'group-title="{group_date}",'
-                    f'{tvg_name}\n'
+                    f'{channel_name}\n'
                 )
 
                 url = raw_link
