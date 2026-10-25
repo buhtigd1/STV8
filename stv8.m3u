@@ -200,9 +200,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dgpgbewozb/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/a4890a21-ab74-4418-b921-07825cac4745-cenc.mpd?aws_sessionId=59e6dafc-1abe-4f6c-bf76-ae4377146ed2
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="24-10-2026",18:30 - 20:30 - Premier League: Aston Villa vs Man City - USA NETWORK HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58484/load-playlist-multi?&.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="24-10-2026",18:30 - 20:30 - Premier League: Aston Villa vs Man City - GHD SPORTS HD
@@ -354,11 +351,11 @@ https://instreams.live/live3/tv401884758/index.m3u8?st=EcqufcFHB3I30Mo_BMl1KA&e=
 https://thedaddy.pk/watch.php?id=949
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: Augsburg vs Union Berlin - Nova Sports 5 Greece
 https://thedaddy.pk/watch.php?id=635
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: KÃ¶ln vs Schalke - Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: Köln vs Schalke - Sky Sport Bundesliga 1
 https://thedaddy.pk/watch.php?id=558
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: KÃ¶ln vs Schalke - Arena Sport 2 Serbia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: Köln vs Schalke - Arena Sport 2 Serbia
 https://thedaddy.pk/watch.php?id=430
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: KÃ¶ln vs Schalke - Sportklub 1 Croatia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: Köln vs Schalke - Sportklub 1 Croatia
 https://thedaddy.pk/watch.php?id=430
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="24-10-2026",20:30 - 22:30 - Bundesliga: Mainz 05 vs Bremen - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -407,9 +404,6 @@ https://thedaddy.pk/watch.php?id=25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ztg97ws40s/out/v1/aaaab12c95924d80a77f87f7c745782a/27f50f3e-da7e-44f3-a089-d6cebb32622a-cenc.mpd?aws_sessionId=ff8d0fe4-cc36-44a9-9767-0fa7697669c6
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="24-10-2026",21:00 - 23:30 - Premier League: Arsenal vs Everton - USA NETWORK + HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58489/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="24-10-2026",21:00 - 23:30 - Premier League: Arsenal vs Everton - SKY SPORTS HD
@@ -727,9 +721,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #EXTVLCOPT:http-origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 #EXTINF:-1 tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="25-10-2026",00:30 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - FORMULA + HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58439/load-playlist?&.m3u8
 #EXTINF:-1 tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="25-10-2026",00:30 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - Formula 1 GP USA
@@ -775,7 +766,7 @@ https://thedaddy.pk/watch.php?id=454
 https://thedaddy.pk/watch.php?id=428
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="25-10-2026",01:45 - 03:45 - Serie A: Lazio vs Parma - Arena Sport 1 Croatia
 https://thedaddy.pk/watch.php?id=432
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - D SPORTS FHD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - D SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -783,7 +774,7 @@ https://thedaddy.pk/watch.php?id=432
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - FANCODE FHD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - FANCODE FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -791,7 +782,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - CAZE TV FHD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - CAZE TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -799,17 +790,17 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - ESPN SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - ESPN SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream6.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - Nova Sport 4 CZ
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - Nova Sport 4 CZ
 https://thedaddy.pk/watch.php?id=1024
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - Arena 2 Premium Serbia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - Arena 2 Premium Serbia
 https://thedaddy.pk/watch.php?id=135
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: AtlÃ©tico Madrid vs Deportivo - Prima Sport 3 Romania
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="25-10-2026",02:00 - 04:00 - LaLiga: Atlético Madrid vs Deportivo - Prima Sport 3 Romania
 https://thedaddy.pk/watch.php?id=585
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="25-10-2026",02:30 - 04:30 - Liga Portugal Betclic: Gil Vicente vs Porto - Sport Digital Fussball - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -844,7 +835,7 @@ http://193.47.62.44/hls/KNNNAAQQQQ.m3u8
 https://live05.yefpwmc.app/live/75748097_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="25-10-2026",04:30 - 06:30 - MLS: NY Red Bulls vs Inter Miami - Apple TV
 https://thedaddy.pk/watch.php?id=1217
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro SÃ©rie A: Santos vs Bahia - PREMIERE BR FHD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro Série A: Santos vs Bahia - PREMIERE BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -852,11 +843,11 @@ https://thedaddy.pk/watch.php?id=1217
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 #EXTVLCOPT:http-origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro SÃ©rie A: Santos vs Bahia - Premiere 5 BR
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro Série A: Santos vs Bahia - Premiere 5 BR
 https://thedaddy.pk/watch.php?id=27
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro SÃ©rie A: Santos vs Bahia - Arena 2 Premium Serbia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro Série A: Santos vs Bahia - Arena 2 Premium Serbia
 https://thedaddy.pk/watch.php?id=135
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro SÃ©rie A: Santos vs Bahia - Match! Football 3 Russia
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="25-10-2026",07:00 - 09:00 - Campeonato Brasileiro Série A: Santos vs Bahia - Match! Football 3 Russia
 https://thedaddy.pk/watch.php?id=138
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="25-10-2026",15:00 - 00:02 - ODI Tri-series in Pakistan: PAK vs ENG - Willow Cricbuzz AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1100,9 +1091,6 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center
 https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="25-10-2026",21:00 - 23:00 - Premier League: Liverpool vs Brighton - FUBO SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58263/load-playlist-multi?&.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="25-10-2026",21:00 - 23:00 - Premier League: Liverpool vs Brighton - GHD SPORTS HD
@@ -1770,7 +1758,7 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-80030
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xstream.st/livetv.php?stream=tv401915389
 https://instreams.pro/live3/tv401915389/index.m3u8?st=qHgZ0kXEXAu4z5mLvaOFGw&e=1792618207
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: AtlÃ©tico Madrid vs Bayern - TNT SPORTS FHD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Atlético Madrid vs Bayern - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -1778,25 +1766,25 @@ https://instreams.pro/live3/tv401915389/index.m3u8?st=qHgZ0kXEXAu4z5mLvaOFGw&e=1
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: AtlÃ©tico Madrid vs Bayern - TNT SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Atlético Madrid vs Bayern - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center
 https://edgestream3.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: AtlÃ©tico Madrid vs Bayern - GHD SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Atlético Madrid vs Bayern - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/
 http://193.47.62.50/hls/RGRGRGq.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: AtlÃ©tico Madrid vs Bayern - SONYLIV ENG AQ
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Atlético Madrid vs Bayern - SONYLIV ENG AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
 https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: AtlÃ©tico Madrid vs Bayern - EAPN SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Atlético Madrid vs Bayern - EAPN SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1836,25 +1824,25 @@ https://99.domhsd.com/global/max3/index.m3u8?token=4093e2fc783d4b3892098277dac08
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://99.domhsd.com/global/espn5/index.m3u8?token=3babe50d31ee63e63181feb9b580fb572d16db66-5e-1792654503-1792600503&ip=103.87.250.61
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: BodÃ¸/Glimt vs Lille - CBS SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Bodø/Glimt vs Lille - CBS SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center
 https://edgestream6.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: BodÃ¸/Glimt vs Lille - GHD SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Bodø/Glimt vs Lille - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/
 http://193.47.62.55/hls/XAXAXAA.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: BodÃ¸/Glimt vs Lille - SONYLIV ENG AQ
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Bodø/Glimt vs Lille - SONYLIV ENG AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8e79d2267e6faf3e153d9eed80e0e876-1792608602074
 https://sonymtmnew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: BodÃ¸/Glimt vs Lille - ESPN SPORTS HD
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",03:00 - 05:00 - UEFA Champions League: Bodø/Glimt vs Lille - ESPN SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
