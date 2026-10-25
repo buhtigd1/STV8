@@ -18,12 +18,16 @@ def format_event_time(start_str, end_str):
         start = datetime.datetime.strptime(
             start_str,
             "%Y/%m/%d %H:%M:%S %z"
-        ).astimezone(ZoneInfo("Asia/Jakarta"))
+        ).astimezone(
+            ZoneInfo("Asia/Jakarta")
+        )
 
         end = datetime.datetime.strptime(
             end_str,
             "%Y/%m/%d %H:%M:%S %z"
-        ).astimezone(ZoneInfo("Asia/Jakarta"))
+        ).astimezone(
+            ZoneInfo("Asia/Jakarta")
+        )
 
         return f"{start:%H:%M} - {end:%H:%M}"
 
@@ -36,7 +40,9 @@ def get_event_date(start_str):
         dt = datetime.datetime.strptime(
             start_str,
             "%Y/%m/%d %H:%M:%S %z"
-        ).astimezone(ZoneInfo("Asia/Jakarta"))
+        ).astimezone(
+            ZoneInfo("Asia/Jakarta")
+        )
 
         return dt.strftime("%d-%m-%Y")
 
@@ -44,15 +50,47 @@ def get_event_date(start_str):
         return "Unknown-Date"
 
 
-def write_headers(f, headers):
-    headers = headers.replace("&amp;amp;", "&amp;")
+def sort_events(events):
+    def get_sort_key(event):
+        try:
+            start_time = event.get(
+                "eventInfo", {}
+            ).get(
+                "startTime",
+                ""
+            )
 
-    for header in headers.split("&amp;"):
+            return datetime.datetime.strptime(
+                start_time,
+                "%Y/%m/%d %H:%M:%S %z"
+            ).astimezone(
+                ZoneInfo("Asia/Jakarta")
+            )
+
+        except Exception:
+            return datetime.datetime.max
+
+    return sorted(
+        events,
+        key=get_sort_key
+    )
+
+
+def write_headers(f, headers):
+    headers = headers.replace(
+        "&amp;amp;amp;",
+        "&amp;amp;"
+    )
+
+    for header in headers.split("&amp;amp;"):
 
         if "=" not in header:
             continue
 
-        key, value = header.split("=", 1)
+        key, value = header.split(
+            "=",
+            1
+        )
 
         key = key.lower().strip()
         value = unquote_plus(value)
@@ -73,36 +111,66 @@ def write_headers(f, headers):
             )
 
 
-def create_m3u(data, filename="stv8.m3u"):
+def create_m3u(
+    data,
+    filename="stv8.m3u"
+):
 
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(
+        filename,
+        "w",
+        encoding="utf-8"
+    ) as f:
 
-        # Header playlist
-        f.write('#EXTM3U url-tvg=""\n\n')
+        f.write(
+            '#EXTM3U url-tvg=""\n\n'
+        )
 
         for event in data:
 
-            event_info = event.get("eventInfo", {})
+            event_info = event.get(
+                "eventInfo",
+                {}
+            )
 
             event_name = event_info.get(
                 "eventName",
                 "Unknown Event"
             )
 
-            teamA = event_info.get("teamA", "")
-            teamB = event_info.get("teamB", "")
+            teamA = event_info.get(
+                "teamA",
+                ""
+            )
 
-            logo = event_info.get("eventLogo", "")
+            teamB = event_info.get(
+                "teamB",
+                ""
+            )
 
-            start_time = event_info.get("startTime", "")
-            end_time = event_info.get("endTime", "")
+            logo = event_info.get(
+                "eventLogo",
+                ""
+            )
+
+            start_time = event_info.get(
+                "startTime",
+                ""
+            )
+
+            end_time = event_info.get(
+                "endTime",
+                ""
+            )
 
             time_label = format_event_time(
                 start_time,
                 end_time
             )
 
-            group_date = get_event_date(start_time)
+            group_date = get_event_date(
+                start_time
+            )
 
             if teamA and teamB:
                 match_label = (
@@ -123,7 +191,10 @@ def create_m3u(data, filename="stv8.m3u"):
                 []
             ):
 
-                raw_link = stream.get("link", "")
+                raw_link = stream.get(
+                    "link",
+                    ""
+                )
 
                 if not raw_link:
                     continue
@@ -158,10 +229,15 @@ def create_m3u(data, filename="stv8.m3u"):
                         1
                     )
 
-                url = url.replace("&amp;amp;", "&amp;")
+                url = url.replace(
+                    "&amp;amp;amp;",
+                    "&amp;amp;"
+                )
 
-                is_mpd = ".mpd" in url.lower()
-                is_hls = ".m3u8" in url.lower()
+                url_lower = url.lower()
+
+                is_mpd = ".mpd" in url_lower
+                is_hls = ".m3u8" in url_lower
 
                 if is_mpd:
 
@@ -208,7 +284,9 @@ def create_m3u(data, filename="stv8.m3u"):
                         headers
                     )
 
-                f.write(url + "\n")
+                f.write(
+                    url + "\n"
+                )
 
 
 def main():
@@ -216,6 +294,9 @@ def main():
     try:
 
         data = fetch_json(URL)
+
+        # Urutkan berdasarkan waktu pertandingan
+        data = sort_events(data)
 
         create_m3u(
             data,
