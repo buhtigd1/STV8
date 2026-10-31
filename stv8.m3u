@@ -151,54 +151,6 @@ http://193.47.62.41/hls/H8888AAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/H8888AAQQ.m3u8
 
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - SPORTS TV - FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - FANCODE ENG - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - FORMULA TV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
-#EXTVLCOPT:http-origin=https://amazon.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
-
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - Sky Main Event  HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://admin2.formaturamaxi.com.br/f1.m3u8
-
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - Formula 1 GP USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://nadia01eo.tn76degree12ec3out.cfd
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://193.47.62.50/hls/KYYY.m3u8
-
-#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="31-10-2026",01:30 - 09:00 - Formula1: FORMULA 1 vs FORMULA 1 - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
-
 #EXTINF:-1 tvg-id="764" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",02:30 - 04:30 - Bundesliga: Elversberg vs Mainz 05 - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -391,34 +343,6 @@ http://193.47.62.41/hls/Y999AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="31-10-2026",12:30 - 19:00 - ICC CWC League 2: UAE vs NED - English | Jersey v Denmark (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793453026~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7543d43583846be22203e12d5a11662cc8982514b3995ce571a49b653cbf4d13/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da
-
-#EXTINF:-1 tvg-id="759" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="31-10-2026",13:45 - 19:30 - CWC Challenge League: QAT vs JSY - English | Qatar v Jersey (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793457013~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4838bd2d4f140bc4f34532b991a53ace6f64286dd9163e12247853117bd145f4/manifest.mpd?vcfilter=5164e0ca-5166-4a1a-96b1-3b55a3ffecd1&
-
-#EXTINF:-1 tvg-id="760" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="31-10-2026",13:45 - 19:30 - CWC Challenge League: KEN vs PNG - English | Kenya v Papua New Guinea (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793457015~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=988985a7cf1b1e732b86eece121e52af06cfe7fa2d8cdf373eb69959b17afc70/manifest.mpd?vcfilter=55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4&
-
 #EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="31-10-2026",15:00 - 00:45 - PAKISTAN ODI TRI-SERIES, Final: PAK vs SL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -464,38 +388,6 @@ https://baila-lentoo.pages.dev/all-sp/809386.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8
 
-#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv HIN AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a
-
-#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv ENG AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a
-
-#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv TAM AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a
-
-#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",18:30 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv MAL AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a
-
 #EXTINF:-1 tvg-id="739" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",19:30 - 21:30 - Premier League: Chelsea vs Man Utd - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -529,10 +421,8 @@ https://chatgpt.hereisman.net/playlist/58909/load-playlist?&.m3u8
 #EXTINF:-1 tvg-id="739" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",19:30 - 21:30 - Premier League: Chelsea vs Man Utd - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/N777.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/cbab0097-c9d6-49e8-be82-9530f64af720.m3u8
 
 #EXTINF:-1 tvg-id="739" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",19:30 - 21:30 - Premier League: Chelsea vs Man Utd - TNT SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -616,6 +506,16 @@ https://thedaddy.pk/watch.php?id=135
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 http://193.47.62.44/hls/BDDDAAAAQQAAAA.m3u8
 
+#EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc6fc0a19334bcf6f1f13303d6eadf59:b0fe88983e13b84219657709474b64fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kox3zctdlc/out/v1/69e4face0f4147aab7f9e8127b888b30/cenc.mpd?aws_sessionId=f592f3b2-5b4f-4f9f-9667-229f43c333c4
+
 #EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - SPORT1 CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -623,6 +523,19 @@ http://193.47.62.44/hls/BDDDAAAAQQAAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - CBS NETWORK HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58911/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/QHHHQQQQAAAA.m3u8
 
 #EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - Sport TV4 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -635,6 +548,38 @@ https://thedaddy.pk/watch.php?id=71
 #EXTINF:-1 tvg-id="769" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="31-10-2026",21:00 - 23:00 - Serie A: Bologna vs Monza - Arena Sport 2 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=433
+
+#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",21:00 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv HIN AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c
+
+#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",21:00 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv ENG AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c
+
+#EXTINF:-1 tvg-id="1131" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="31-10-2026",21:00 - 23:25 - INDIAN SUPER LEAGUE: ISL vs ISL - SonyLiv BEN AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793495418~acl=/*~id=af30a945ade97ece2ce911b0fc8cd61d-1793452202999~hmac=f6fbe4afa547ad2e27301ad8b4366955fce214445293aca61a509cc22aacbb8c
+
+#EXTINF:-1 tvg-id="765" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Leverkusen vs Stuttgart - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAAAA.m3u8
 
 #EXTINF:-1 tvg-id="765" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Leverkusen vs Stuttgart - Sky Sport Bundesliga 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -652,6 +597,14 @@ https://thedaddy.pk/watch.php?id=633
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=467
 
+#EXTINF:-1 tvg-id="1025" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Bremen vs Hoffenheim - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAAAAQQ.m3u8
+
 #EXTINF:-1 tvg-id="1025" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Bremen vs Hoffenheim - Sky Sport Bundesliga 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=948
@@ -664,6 +617,14 @@ https://thedaddy.pk/watch.php?id=940
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=496
 
+#EXTINF:-1 tvg-id="766" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: M'gladbach vs Paderborn - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAAA.m3u8
+
 #EXTINF:-1 tvg-id="766" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: M'gladbach vs Paderborn - Sky Sport Bundesliga 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=947
@@ -672,6 +633,14 @@ https://thedaddy.pk/watch.php?id=947
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=498
 
+#EXTINF:-1 tvg-id="1023" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Augsburg vs Freiburg - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAA.m3u8
+
 #EXTINF:-1 tvg-id="1023" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Augsburg vs Freiburg - Sky Sport Bundesliga 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=949
@@ -679,6 +648,14 @@ https://thedaddy.pk/watch.php?id=949
 #EXTINF:-1 tvg-id="1023" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Augsburg vs Freiburg - beIN Sports MAX 4 France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=494
+
+#EXTINF:-1 tvg-id="1024" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Schalke vs Leipzig - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAAAAQ.m3u8
 
 #EXTINF:-1 tvg-id="1024" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Schalke vs Leipzig - Sky Sport Bundesliga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -692,17 +669,35 @@ https://thedaddy.pk/watch.php?id=636
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=435
 
-#EXTINF:-1 tvg-id="723" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="31-10-2026",21:55 - 23:55 - Saudi Pro League: Al-Fayha vs Al Faisaly - Thmanyah HD
+#EXTINF:-1 tvg-id="1024" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="31-10-2026",21:30 - 23:30 - Bundesliga: Schalke vs Leipzig - CazéTV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+
+#EXTINF:-1 tvg-id="723" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="31-10-2026",21:55 - 23:55 - Saudi Pro League: Al-Fayha vs Al Faisaly - Al Fayha vs Al Faisaly
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/RRRRQQQQ.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/kkkkAAAAAQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="723" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="31-10-2026",21:55 - 23:55 - Saudi Pro League: Al-Fayha vs Al Faisaly - Thmanyah
+#EXTINF:-1 tvg-id="748" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Bournemouth vs Leeds - FUBO SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d769cd4a29d99846454b4c6522a48737:f28baac0518d2a2ad820f806a271bec7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y41kzj5gl4/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd?aws_sessionId=2fd09059-3fbc-4560-b788-31929abc1233
+
+#EXTINF:-1 tvg-id="748" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Bournemouth vs Leeds - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=2
+https://www.rtmpcdn.com/live/926e38d6-2c1f-415b-866c-34ae2d587f35.m3u8
 
 #EXTINF:-1 tvg-id="748" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Bournemouth vs Leeds - Arena Sport 4 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -720,9 +715,47 @@ https://thedaddy.pk/watch.php?id=590
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1d7426b1be3cb85a1d2932b21ffd263:f14833238fdbca625200e6e96f86b6c4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uoemmv0upd/out/v1/b59284953fcd4c93a6977856612840ae/cenc.mpd?aws_sessionId=47bf560e-cee6-4ada-a4f8-d148ebb4aab9
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - FUBO SPORTS ALT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - PREMIER SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://admin2.formaturamaxi.com.br/prem.m3u8
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/31a40533-90c4-4912-8e9d-24579f4c24ae.m3u8
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - FUBO SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://streamfree.top/embed/soccer/brighton-hove-albion-vs-manchester-city1080p
+#EXTVLCOPT:http-origin=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; 24117RN76G Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/156.0.8078.47 Mobile Safari/537.36
+https://streamfree.top/live-cdn/brighton-hove-albion-vs-manchester-city1080p/index.m3u8?_t=-xzcaSJt06nZp7qT1DQjDA&_e=1793486886&_n=0d41fb9a438823e6
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - SKY SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://messi.damitv.st/live-hls/channel/pl/2026-10-31/mci-bha/playlist.m3u8?tk=luV2iBWAgWuOk8AgU4IpZQ&e=1793501407
+
+#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://thedaddy.pk/watch.php?id=466
 
 #EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - Arena 1 Premium Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -732,9 +765,32 @@ https://thedaddy.pk/watch.php?id=134
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=589
 
-#EXTINF:-1 tvg-id="747" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Man City vs Brighton - Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="749" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Brentford vs Forest - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5892fecfff0a4d5a7eef925f2538c386:70bdd64f7dc30ba525abc5655f14b540
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=466
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1xqidoiy1/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="749" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Brentford vs Forest - USA SPORTS HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58919/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="749" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Brentford vs Forest - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/41dea22f-ac04-49b5-91f4-880b98e3c5c2.m3u8
+
+#EXTINF:-1 tvg-id="749" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Brentford vs Forest - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/A888a.m3u8
 
 #EXTINF:-1 tvg-id="749" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Brentford vs Forest - Sky Sport 5 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -744,6 +800,33 @@ https://thedaddy.pk/watch.php?id=592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=429
 
+#EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c9e016364d1ec0c25dde02ab73a7dc0:94e71c7a2acb9fa7e73389de306c1f16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8d0nsihnec/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?aws_sessionId=5e296bb2-8ebb-40c6-8801-8dd7200a925c
+
+#EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - Peacock TV HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58918/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/aec8dc57-0ff6-4027-9c6f-c982e5970a59.m3u8
+
+#EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/A888aa.m3u8
+
 #EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - Sky Sport 6 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=593
@@ -751,6 +834,33 @@ https://thedaddy.pk/watch.php?id=593
 #EXTINF:-1 tvg-id="750" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Coventry vs Sunderland - Arena Sport 2 Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=430
+
+#EXTINF:-1 tvg-id="752" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Hull vs Ipswich - FUBO SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50e22cee8d6ded6ee6242a6a7e68102:b2c753d93d06e56196c6a00768c145dd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qhinby0vwz/out/v1/959c0e797f864fd5a2acfbf924cca5c2/cenc.mpd?aws_sessionId=bfc43920-027e-4425-b762-5e1b766c9bf2
+
+#EXTINF:-1 tvg-id="752" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Hull vs Ipswich - PREMIER SPORTS HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58916/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="752" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Hull vs Ipswich - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/6576aa15-9785-471a-925a-fce1dee8e20a.m3u8
+
+#EXTINF:-1 tvg-id="752" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Hull vs Ipswich - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/A888aaa.m3u8
 
 #EXTINF:-1 tvg-id="752" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="31-10-2026",22:00 - 00:00 - Premier League: Hull vs Ipswich - Sky Sport 4 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -760,58 +870,57 @@ https://thedaddy.pk/watch.php?id=591
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=434
 
+#EXTINF:-1 tvg-id="1006" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Burnley vs Portsmouth - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/tlllAAAAA.m3u8
+
 #EXTINF:-1 tvg-id="1006" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Burnley vs Portsmouth - Sky Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=3005
 
-#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Southampton vs QPR - CBS SPORTS FHD
+#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Southampton vs QPR - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/T999AAAAQQ.m3u8
+
+#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Southampton vs QPR - Sky Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://thedaddy.pk/watch.php?id=170
+
+#EXTINF:-1 tvg-id="1029" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: West Ham vs West Brom - CBS GOLAZO AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTVLCOPT:http-origin=https://amazon.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Southampton vs QPR - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/HHHHQQQQQQ.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="1029" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: West Ham vs West Brom - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/TKKKQQQAAA.m3u8
+http://193.47.62.41/hls/G888AAAAqqq.m3u8
 
 #EXTINF:-1 tvg-id="1030" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Wolves vs Cardiff - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/H111AAAAQQ.m3u8
+http://193.47.62.59/hls/GLLLAAQQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - BEIN SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - D SPORTS + FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+#EXTINF:-1 tvg-id="1030" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="31-10-2026",22:00 - 00:00 - Championship: Wolves vs Cardiff - Sky Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://thedaddy.pk/watch.php?id=172
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - FANCODE FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -821,29 +930,19 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - ESPN DEPORTEES HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream6.pro/hls/377qj1h2727.m3u8
-
 #EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - CAZE TV FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+#EXTVLCOPT:http-origin=https://amazon.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.55/hls/IPPPA.m3u8
+#EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="31-10-2026",22:15 - 00:15 - LaLiga: Rayo Vallecano vs Celta - ESPN DEPORTES HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58920/load-playlist?&.m3u8
 
 #EXTINF:-1 tvg-id="805" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="31-10-2026",22:30 - 00:30 - Liga Portugal Betclic: Moreirense vs Estrela Amadora - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -851,11 +950,7 @@ http://193.47.62.55/hls/IPPPA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/33YYYA.m3u8
-
-#EXTINF:-1 tvg-id="805" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="31-10-2026",22:30 - 00:30 - Liga Portugal Betclic: Moreirense vs Estrela Amadora - Sport TV6 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=291
+http://193.47.62.44/hls/EUUUAAAAAAAQ.m3u8
 
 #EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -873,25 +968,52 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - PARAMOUNT+ HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=433
+https://chatgpt.hereisman.net/playlist/58941/load-playlist?&.m3u8
 
-#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Eleven Sports 1 Poland
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=71
+https://www.rtmpcdn.com/live/838ea200-3301-48c1-bbba-2601a0314027.m3u8
 
-#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Sport TV3 Portugal
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - CBS SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://taifood-blog.asia/
+#EXTVLCOPT:http-origin=https://taifood-blog.asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; 24117RN76G Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/156.0.8078.47 Mobile Safari/537.36
+https://vishnu.indianservers.st/secure/ivPYlkeHDDSjGQmzRaKpiuLoPZNuONIc/1793455200/1793482200/sa_udi/index.m3u8
+
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Movistar Liga de Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=454
+https://thedaddy.pk/watch.php?id=435
+
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Eleven Sports 3 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://thedaddy.pk/watch.php?id=428
+
+#EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="01-11-2026",00:00 - 02:00 - Serie A: Udinese vs Roma - Arena 5 Premium Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://thedaddy.pk/watch.php?id=6
 
 #EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c73b2bb9fe9610c566c68de50b57ad7f:2f486dbafd801fafe67c5b148263b4db
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tmuyow2v4n/out/v1/42dd830cfc8140aea984c2c01166fd1c/0cc6e394-71a6-4e53-ad42-64d38a14a3fa-cenc.mpd?aws_sessionId=41d23a1f-5302-4eb0-ac50-a5fa48ce041a
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - NBC SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
 
 #EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - SKY SPORTS EPL AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -899,45 +1021,26 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
 
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - SKY SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedcenter.st
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - PEACOCK TV HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://chatgpt.hereisman.net/playlist/58944/load-playlist?&.m3u8
 
 #EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://www.rtmpcdn.com/live/a97e583a-5cae-48f9-b9bd-a28855aff30f.m3u8
+https://www.rtmpcdn.com/live/6f94fa45-8327-47f2-91dd-fb49308e6591.m3u8
 
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://player.online878.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live.vivo155.com/live/hd-en-1-4558637.m3u8?txSecret=817cb961616940e06806482555b59814&txTime=6ADCF158
-
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - SKY SPORTS PREMIER 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://messi.damitv.st/live-sd/s/admin/p-chelsea-vs-tottenham-hotspur/playlist.m3u8?tk=ScGTHDoSH_cOBYTmNBPLVw&e=1792903401
-
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - Astro Premier League
+#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - Sky Sports Main Event UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=38
 
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - Arena 3 Premium Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=125
+https://thedaddy.pk/watch.php?id=139
 
-#EXTINF:-1 tvg-id="751" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",00:30 - 02:30 - Premier League: Tottenham vs Crystal Palace - beIN Sports MENA English 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=61
-
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - D SPORTS FHD
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - D SPORTS + FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -945,41 +1048,71 @@ https://thedaddy.pk/watch.php?id=61
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - FANCODE FHD
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - FANCODE ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - CAZE TV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - ESPN SPORTS HD
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-https://edgestream6.pro/hls/377qj1h2727.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.59/hls/GAGAGAQQQQQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - Nova Sport 4 CZ
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - Arena 4 Premium Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=1024
+https://thedaddy.pk/watch.php?id=28
 
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - MAX Sport 4 Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=135
+https://thedaddy.pk/watch.php?id=475
 
-#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - Prima Sport 3 Romania
+#EXTINF:-1 tvg-id="757" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="01-11-2026",00:30 - 02:30 - LaLiga: Real Betis vs Málaga - Digi Sport 3 Romania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://thedaddy.pk/watch.php?id=585
+https://thedaddy.pk/watch.php?id=402
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - DAZN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=091ad6e7e054c57d9463c3c9aecd2734:bba8e56d5ec8aed6fb3a49e78eaf39b2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sokjg0lmx4/out/v1/28cef8d0eb944131ae93100669b14392/cenc.mpd
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - BEIN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - PEACOCK TV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37438df8aaee89e4e707af3a0ea2c3c6:43d47f359bcc4e5ce06e244e08262d12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mqsnyemmca/out/v1/d4389795f5d54f5eb834bc443f55281a/cenc.mpd?aws_sessionId=7d4938b8-fe14-419b-8f0a-4cf646463bc2
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://www.rtmpcdn.com/live/40d8dda1-368b-4114-8d99-5b755b728be1.m3u8
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - SKY SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://taifood-blog.asia/
+#EXTVLCOPT:http-origin=https://taifood-blog.asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; 24117RN76G Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/156.0.8078.47 Mobile Safari/537.36
+https://vishnu.indianservers.st/secure/BwvjyczjiGSxNramwtvZhcmAZubzjele/1793457000/1793484000/skyfootballuk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - Sky Sport 4 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -988,6 +1121,54 @@ https://thedaddy.pk/watch.php?id=12
 #EXTINF:-1 tvg-id="1134" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="01-11-2026",00:30 - 02:30 - Bundesliga: Bayern vs Dortmund - Nova Sport 6 CZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=1026
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - SPORTS TV - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - FANCODE ENG - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - FORMULA TV FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+#EXTVLCOPT:http-origin=https://amazon.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - Sky Main Event  HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://admin2.formaturamaxi.com.br/f1.m3u8
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - Formula 1 GP USA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://193.47.62.50/hls/KYYY.m3u8
+
+#EXTINF:-1 tvg-id="267" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="01-11-2026",00:31 - 07:55 - Formula1: FORMULA 1 vs FORMULA 1 - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
 
 #EXTINF:-1 tvg-id="724" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="01-11-2026",01:00 - 03:00 - Saudi Pro League: Al-Hilal vs Al-Fateh - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1000,9 +1181,9 @@ http://193.47.62.44/hls/IFFFAAA.m3u8
 #EXTINF:-1 tvg-id="724" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="01-11-2026",01:00 - 03:00 - Saudi Pro League: Al-Hilal vs Al-Fateh - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live.vivo155.com/live/sd-1-4599646.m3u8?txSecret=a46eaa92575e8f0b44d2e714b5a40766&txTime=6AE4E779
+https://live2.jorvakstreamcache.com/live/channel17.m3u8?
 
 #EXTINF:-1 tvg-id="724" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="01-11-2026",01:00 - 03:00 - Saudi Pro League: Al-Hilal vs Al-Fateh - Sport TV3 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
@@ -1416,6 +1597,25 @@ https://dai.google.com/ssai/event/EoLh9waTQSaoJqJMxe-Zlw/master.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793373306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4efaa91195864843974617aefa47429dad814be81f6ac27d2fd7ead68597fbbc/manifest.mpd?vcfilter=0cca2c28-c998-473a-a1bc-2e4b6189f627&
 
+#EXTINF:-1 tvg-id="1147" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMit-6K8hh6BsVA_Dzk1JOvPnZ5cxPY1XZmZJa44gbsw&s" group-title="01-11-2026",17:45 - 00:20 - NEPAL PREMIER LEAGUE: NPL vs NPL - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
+
+#EXTINF:-1 tvg-id="1147" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMit-6K8hh6BsVA_Dzk1JOvPnZ5cxPY1XZmZJa44gbsw&s" group-title="01-11-2026",17:45 - 00:20 - NEPAL PREMIER LEAGUE: NPL vs NPL - STAR SELECTE - HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="1147" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMit-6K8hh6BsVA_Dzk1JOvPnZ5cxPY1XZmZJa44gbsw&s" group-title="01-11-2026",17:45 - 00:20 - NEPAL PREMIER LEAGUE: NPL vs NPL - FANCODE ENG IN-IP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="01-11-2026",21:30 - 05:00 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1504,6 +1704,35 @@ https://thedaddy.pk/watch.php?id=135
 #EXTINF:-1 tvg-id="777" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="01-11-2026",23:30 - 01:30 - Premier League: Liverpool vs Arsenal - Sky Sport Top Event DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://thedaddy.pk/watch.php?id=556
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19694/image/dark" group-title="02-11-2026",01:00 - 04:10 - T20 Domestic - m: WI-A vs EN-A - FANCODE ENG AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19694/image/dark" group-title="02-11-2026",01:00 - 04:10 - T20 Domestic - m: WI-A vs EN-A - FANCODE 2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19694/image/dark" group-title="02-11-2026",01:00 - 04:10 - T20 Domestic - m: WI-A vs EN-A - ROBBITHOLE - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793418648~exp=1793447508~acl=/bpk-tv/202/default/*~eti=5bc1fbad7de02c4b708db91d4c989562~sid=a35a136bde8af9ec~imax=2~hmac=5aa32173d9d010587c0d11781300caa88b24a12d6ec4eb48213b16ef4a84a436/bpk-tv/202/default/index.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19694/image/dark" group-title="02-11-2026",01:00 - 04:10 - T20 Domestic - m: WI-A vs EN-A - TAPMAD - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?
 
 #EXTINF:-1 tvg-id="807" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="04-11-2026",00:45 - 02:45 - UEFA Champions League: Galatasaray vs Stuttgart - TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
