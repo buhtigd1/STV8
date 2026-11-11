@@ -259,14 +259,6 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://live.vivo155.com/live/sd-1-4658654.m3u8?txSecret=55f8cc772878f2a68c31707fdc02d0d0&txTime=6AF38A86
 
-#EXTINF:-1 tvg-id="276" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="11-11-2026",07:00 - 12:01 - WWE NXT: NXT vs NXT - FAST SERVER HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/VVVV.m3u8
-
 #EXTINF:-1 tvg-id="276" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="11-11-2026",07:00 - 12:01 - WWE NXT: NXT vs NXT - GHD SPORTS - HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -284,6 +276,14 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://admin2.formaturamaxi.com.br/wwe.m3u8
+
+#EXTINF:-1 tvg-id="276" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png" group-title="11-11-2026",07:00 - 12:01 - WWE NXT: NXT vs NXT - FAST SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/AYYYAAAQ.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="11-11-2026",11:30 - 19:29 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -337,7 +337,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE start: WBBL vs WBBL - WILLOW CRICBUZZ AQ
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW CRICBUZZ AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,7 +345,7 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE start: WBBL vs WBBL - WILLOW CRICBUZZ SD
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW CRICBUZZ SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -353,7 +353,7 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE start: WBBL vs WBBL - WILLOW SPORTS AQ
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW SPORTS AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -361,13 +361,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE start: WBBL vs WBBL - SKY CRICKET - AQ
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - SKY CRICKET - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE start: WBBL vs WBBL - FOX CRICKET - HD
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="11-11-2026",15:10 - 21:15 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - FOX CRICKET - HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
