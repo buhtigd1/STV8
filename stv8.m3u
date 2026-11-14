@@ -30,123 +30,6 @@ http://193.47.62.55/hls/V333AA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW CRICBUZZ - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW CRICBUZZ c2 - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - PTV SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live.msnetworks.net/ptv-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW - HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/VFFFA.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - TAPMAD - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",11:30 - 19:40 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - TAPMAD - HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",13:00 - 21:08 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - Willow Cricbuzz - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",13:00 - 21:08 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - Willow Cricbuzz c2 - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",13:00 - 21:08 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - A SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live.msnetworks.net/a-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",13:00 - 21:08 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - ATN SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="13-11-2026",13:00 - 21:08 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - TAPMAD - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="13-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - PREMIERE SPORTS - FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-origin=https://amazon.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="13-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - WILLOW CRICBUZZ - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="13-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - WILLOW CRICBUZZ c2 - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="13-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - MYCO TV - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://myco.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="13-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - A SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live.msnetworks.net/a-sports/master.m3u8
-
 #EXTINF:-1 tvg-id="831" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="13-11-2026",19:00 - 21:00 - International Friendly Games: Singapore vs Paraguay - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -674,17 +557,17 @@ https://live2.jorvakstreamcache.com/live/channel22.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
+#EXTINF:-1 tvg-id="875" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",06:00 - 08:00 - International Friendly Games: Argentina vs Uruguay - SporTV BR HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794616625-0-0-395e9832b4e5f4c6d1cb9bccbf659e49&token=d2cd567100c8ff84&device=4&platform=rrty
+
 #EXTINF:-1 tvg-id="875" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",06:00 - 08:00 - International Friendly Games: Argentina vs Uruguay - FAST SERVER HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="875" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",06:00 - 08:00 - International Friendly Games: Argentina vs Uruguay - TYC SPORTS AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="875" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",06:00 - 08:00 - International Friendly Games: Argentina vs Uruguay - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -692,7 +575,13 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/AHHHA.m3u8
+http://193.47.62.44/hls/TTTT.m3u8
+
+#EXTINF:-1 tvg-id="875" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",06:00 - 08:00 - International Friendly Games: Argentina vs Uruguay - CN SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 
 #EXTINF:-1 tvg-id="876" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Ecuador vs Costa Rica - GHD SPORTS - SD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -700,7 +589,27 @@ http://193.47.62.59/hls/AHHHA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/FIIIAAAAAA.m3u8
+http://193.47.62.41/hls/goooaa.m3u8
+
+#EXTINF:-1 tvg-id="876" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Ecuador vs Costa Rica - FAST SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-id="876" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Ecuador vs Costa Rica - CN SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live05.yefpwmc.app/live/49572724_tsc.m3u8
+
+#EXTINF:-1 tvg-id="877" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Colombia vs Chile - D SPORTS + FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 #EXTINF:-1 tvg-id="877" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Colombia vs Chile - GHD SPORTS - SD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -708,7 +617,13 @@ http://193.47.62.41/hls/FIIIAAAAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/FIIIAAAA.m3u8
+http://193.47.62.41/hls/goooa.m3u8
+
+#EXTINF:-1 tvg-id="877" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",07:00 - 09:00 - International Friendly Games: Colombia vs Chile - CN SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live05.yefpwmc.app/live/59444581_tsc.m3u8
 
 #EXTINF:-1 tvg-id="295" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="14-11-2026",07:00 - 12:09 - Friday Night SmackDown: SmackDown vs SmackDown - USA SPORTS HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
@@ -721,7 +636,7 @@ https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/JJJJAA.m3u8
+http://193.47.62.41/hls/goooaaaQ.m3u8
 
 #EXTINF:-1 tvg-id="295" tvg-logo="https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717" group-title="14-11-2026",07:00 - 12:09 - Friday Night SmackDown: SmackDown vs SmackDown - WWE Network HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -759,27 +674,69 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - GHD SPORTS - HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8
-
-#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - CANAL MX FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - GHD SPORTS SD
+#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/DBBBQQQ.m3u8
+http://193.47.62.41/hls/goooaaaQQ.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="14-11-2026",08:00 - 10:00 - International Friendly Games: Peru vs Bolivia - FAST SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW CRICBUZZ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW CRICBUZZ c2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - PTV SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live.msnetworks.net/ptv-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - WILLOW - HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.50/hls/VFFFA.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - TAPMAD - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",11:30 - 19:30 - SRI LANKA TOUR OF PAKISTAN: PAK vs SL - TAPMAD - HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="14-11-2026",11:40 - 20:01 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW CRICBUZZ AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -818,7 +775,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - WILLOW CRICBUZZ AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - WILLOW CRICBUZZ AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -826,7 +783,7 @@ https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc0642156
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - PRIME VIDEO - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - PRIME VIDEO - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -834,7 +791,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/dgcu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - WILLOW CRICBUZZ SD
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - WILLOW CRICBUZZ SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -842,35 +799,108 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - SonyLiv HIN - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - SonyLiv HIN - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1211/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794475246~acl=/*~id=39037889645650889878990961925795~hmac=287ba00fd36b3c16927ebf8e8a7768909617fd345b08e6e280539f7daa5a5db7
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - SonyLiv ENG - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - SonyLiv ENG - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1211/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794475246~acl=/*~id=39037889645650889878990961925795~hmac=287ba00fd36b3c16927ebf8e8a7768909617fd345b08e6e280539f7daa5a5db7
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - SonyLiv TAM - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - SonyLiv TAM - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794501744~acl=/*~id=0f7b9847c17a55954d124fdfe5eba2c9-1794458544030~hmac=6af5c16322ef080c2d7bc2e9f5eb0736a57eccf9b4c224430968d417c8db4f3d
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - SonyLiv TEL - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - SonyLiv TEL - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794501744~acl=/*~id=0f7b9847c17a55954d124fdfe5eba2c9-1794458544030~hmac=6af5c16322ef080c2d7bc2e9f5eb0736a57eccf9b4c224430968d417c8db4f3d
 
-#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup: PAK-U19 vs IND-U19 - SonyLiv KAN - AQ
+#EXTINF:-1 tvg-id="758" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="14-11-2026",12:00 - 19:29 - U19 Asia Cup,  Final Match: PAK-U19 vs IND-U19 - SonyLiv KAN - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794501744~acl=/*~id=0f7b9847c17a55954d124fdfe5eba2c9-1794458544030~hmac=6af5c16322ef080c2d7bc2e9f5eb0736a57eccf9b4c224430968d417c8db4f3d
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",13:00 - 20:30 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - Willow Cricbuzz - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",13:00 - 20:30 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - Willow Cricbuzz c2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dnip3gefsa/out/v1/d07a14d5030a4c119f2adb15588cb7e2/cenc.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",13:00 - 20:30 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - A SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live.msnetworks.net/a-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",13:00 - 20:30 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - ATN SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="14-11-2026",13:00 - 20:30 - AFGHANISTAN VS ZIMBABWE IN UAE: AFG vs ZIM - TAPMAD - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="14-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - PREMIERE SPORTS - FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-origin=https://amazon.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="14-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - WILLOW CRICBUZZ - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="14-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - WILLOW CRICBUZZ c2 - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="14-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - MYCO TV - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://myco.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mrhXNhcS8eOWdVHMOW6KPsPz9oL9-7HaSuWG_aCsLg&s=10" group-title="14-11-2026",18:30 - 02:00 - ABU DHABI T10 LEAGUE: T10 LEAGUE vs T10 LEAGUE - A SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live.msnetworks.net/a-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="15-11-2026",09:00 - 18:00 - INDIA TOUR OF NEW ZEALAND: NZ vs IND - WILLOW CRICBUZZ - AQ
 #KODIPROP:inputstream=inputstream.adaptive
