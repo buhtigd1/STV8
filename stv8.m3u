@@ -160,17 +160,17 @@ https://live.msnetworks.net/ten-sports/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f
+#KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlgenumfso/out/v1/f0833d9b7f834f9ea749036c5d4cf6bf/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
 
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="28-11-2026",11:40 - 20:00 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW CH2- AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f
+#KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlgenumfso/out/v1/f0833d9b7f834f9ea749036c5d4cf6bf/cenc.mpd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
 
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="28-11-2026",11:40 - 20:00 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - WILLOW SPORTS AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -189,18 +189,38 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="28-11-2026",11:40 - 20:00 - WOMENS BIG BASH LEAGUE: WBBL vs WBBL - TAPMAD - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - TNT SPORTS 1 FHD
+#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - Willow Cricbuzz AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-origin=https://amazon.com
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - Willow CH2 AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - TEN SPORTS - HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live.msnetworks.net/ten-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Nj7rmsIbb5QrdADM98Wt5dT-ovFYI390SJQfV0s6Z9hKBWQLo3Cbi8o&s=10" group-title="28-11-2026",17:00 - 03:00 - INTERNATIONAL LEAGUE T20: IL T20 vs IL T20 - UNITED SPORTS HINDI HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -243,64 +263,60 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #EXTINF:-1 tvg-id="722" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="28-11-2026",19:15 - 21:45 - Saudi Pro League: Al-Hazem vs Al-Nassr - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-http://193.47.62.59/hls/VAVAVAEAAAA.m3u8
-
-#EXTINF:-1 tvg-id="722" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="28-11-2026",19:15 - 21:45 - Saudi Pro League: Al-Hazem vs Al-Nassr - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/DEEEAA.m3u8
 
 #EXTINF:-1 tvg-id="722" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="28-11-2026",19:15 - 21:45 - Saudi Pro League: Al-Hazem vs Al-Nassr - CN SERVER HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8
 
-#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - PREMIER SPORTS AQ
+#EXTINF:-1 tvg-id="1005" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",19:30 - 22:00 - Championship: Blackburn vs Charlton - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/D777AAAAQQQ.m3u8
+
+#EXTINF:-1 tvg-id="1006" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",19:30 - 22:00 - Championship: Preston vs Norwich - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/AGGG.m3u8
+
+#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",19:30 - 22:00 - Championship: Lincoln vs Wolves - Lincoln vs Wrexham
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/D777AAAAQQQQ.m3u8
+
+#EXTINF:-1 tvg-id="1026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",19:30 - 22:00 - Championship: Lincoln vs Wolves - CN SERVER HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://live05.yefpwmc.app/live/97885009_tsc.m3u8
+
+#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - PREMIER SPORTS 1 FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - DAZN SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6365ce13b350b2d18c0c8ca197788571:15c4d7c272fd71c8f3ec017ee2bf0301
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/73zpl8bksq/out/v1/be6ecab30c1746499fce1a422a6205fe/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - beIN ENGLISH - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - CAZETV  - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-
-#EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - GHD SPORTS HD
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="755" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",20:00 - 22:30 - LaLiga: Real Betis vs Rayo Vallecano - CN SERVER HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
-https://live05.yefpwmc.app/live/88508431_tsc.m3u8
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8
 
 #EXTINF:-1 tvg-id="770" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="28-11-2026",21:00 - 23:30 - Serie A: Frosinone vs Parma - beIN SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -587,6 +603,46 @@ https://avalin.sytes.net/web79?_=1795352460276
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401878755
 https://edge2.candyshop.st/live/tv401878755/master.m3u8?st=Jx1xWbwZ8K9BYlD8_v3asw&e=1795374034
+
+#EXTINF:-1 tvg-id="1029" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",22:00 - 00:30 - Championship: Millwall vs Burnley - Middlesbrough vs Bristol City
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/sjjjjAAAAA.m3u8
+
+#EXTINF:-1 tvg-id="1030" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",22:00 - 00:30 - Championship: QPR vs Sheffield Utd - Sheffield United vs Watford
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.50/hls/7KKKAAAAQQ.m3u8
+
+#EXTINF:-1 tvg-id="1031" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",22:00 - 00:30 - Championship: West Brom vs Bristol City - Stoke City vs Birmingham City
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.55/hls/4HHHAAAAQQ.m3u8
+
+#EXTINF:-1 tvg-id="1032" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",22:00 - 00:30 - Championship: West Ham vs Stoke - West Ham vs Preston
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/E7777AAAAAAQ.m3u8
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="28-11-2026",22:00 - 00:30 - Championship: Wrexham vs Portsmouth - Wolves vs Charlton
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/GTGTGT.m3u8
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="28-11-2026",22:15 - 00:45 - LaLiga: Málaga vs Athletic Club - DAZN SPORTS - FHD
 #KODIPROP:inputstream=inputstream.adaptive
